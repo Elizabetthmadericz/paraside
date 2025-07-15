@@ -1012,3 +1012,5 @@ com.google.gson.JsonParseException: Map entry 'c' : Failed to parse either. Firs
 [22:43:20] [Server thread/INFO]: ApioOwO claimed a grave belonging to ApioOwO at -738, 66, -121, minecraft:overworld
 [22:43:26] [Server thread/INFO]: ApioOwO has made the advancement [Ol' Betsy]
 [22:43:26] [Server thread/INFO]: ApioOwO has made the advancement [Take Aim]
+[22:47:41] [Server thread/INFO]: Priority overwritten for player ApioOwO. Claiming: GRAVE / Robbing: INVENTORY
+[22:48:10] [Server thread/INFO]: Priority overwritten for player ApioOwO. Claiming: GRAVE / Robbing: INVENTORY

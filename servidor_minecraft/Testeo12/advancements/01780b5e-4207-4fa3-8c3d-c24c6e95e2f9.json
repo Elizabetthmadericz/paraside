@@ -1,4 +1,16 @@
 {
+  "mstv-mtoolv:recipes/tools/mangrove_stone_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-07-15 22:51:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-07-15 22:34:25 +0000"
@@ -32,6 +44,12 @@
   "rpg_series:root": {
     "criteria": {
       "always": "2025-07-15 22:25:37 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_stone_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-15 22:57:04 +0000"
     },
     "done": true
   },
@@ -71,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-15 22:50:29 +0000"
+    },
+    "done": true
+  },
   "lolmcgt:recipes/decorations/birch_cartography_table": {
     "criteria": {
       "has_planks": "2025-07-15 22:34:09 +0000"
@@ -83,11 +107,29 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-15 23:05:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-07-15 22:34:09 +0000"
     },
     "done": true
+  },
+  "quad-lolmsmv:recipes/decorations/crimson_cobblestone_smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-15 23:00:06 +0000"
+    },
+    "done": false
+  },
+  "lolmlmv:recipes/decorations/spruce_loom": {
+    "criteria": {
+      "has_string": "2025-07-15 23:05:02 +0000"
+    },
+    "done": false
   },
   "quad-lolmbdv:recipes/decorations/birch_white_bed": {
     "criteria": {
@@ -125,9 +167,27 @@
     },
     "done": true
   },
+  "quad-lolmbdv:recipes/decorations/dark_oak_yellow_bed": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-07-15 23:05:42 +0000"
+    },
+    "done": true
+  },
   "mstv-mtoolv:recipes/tools/bamboo_iron_pickaxe": {
     "criteria": {
       "has_pickaxe_head_material": "2025-07-15 22:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-07-15 22:57:41 +0000"
     },
     "done": true
   },
@@ -155,6 +215,12 @@
     },
     "done": true
   },
+  "stackedblocksfarmersdelight:recipes/building_blocks/stacked_cobblestone_blocks": {
+    "criteria": {
+      "has_cobblestone": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "lolmcbv:recipe/decorations/warped_chiseled_bookshelf": {
     "criteria": {
       "has_lots_of_items": "2025-07-15 22:35:42 +0000"
@@ -167,11 +233,29 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "lolmcmv:recipes/misc/birch_composter": {
     "criteria": {
       "has_lots_of_items": "2025-07-15 22:35:42 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-07-15 22:57:52 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
@@ -190,6 +274,12 @@
       "has_planks": "2025-07-15 22:34:04 +0000"
     },
     "done": true
+  },
+  "lolmlmv:recipes/decorations/bamboo_loom": {
+    "criteria": {
+      "has_string": "2025-07-15 23:05:02 +0000"
+    },
+    "done": false
   },
   "lolmcmv:recipes/misc/mangrove_composter": {
     "criteria": {
@@ -221,6 +311,12 @@
     },
     "done": true
   },
+  "quad-lolmsmv:recipes/decorations/cherry_cobblestone_smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-15 23:00:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_horse_armor": "2025-07-15 22:36:46 +0000"
@@ -239,15 +335,45 @@
     },
     "done": false
   },
+  "mstv-mtoolv:recipes/tools/dark_oak_wooden_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
   "lolmcbv:recipe/decorations/jungle_chiseled_bookshelf": {
     "criteria": {
       "has_lots_of_items": "2025-07-15 22:35:42 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-07-15 22:51:03 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_stone_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/warped_stone_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-07-15 22:43:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rocky_stone": {
+    "criteria": {
+      "has_cobblestone": "2025-07-15 22:57:04 +0000"
     },
     "done": true
   },
@@ -305,9 +431,33 @@
     },
     "done": true
   },
+  "mstv-mtoolv:recipes/tools/dark_oak_stone_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "stackedblocksfarmersdelight:recipes/building_blocks/stacked_birch_planks": {
     "criteria": {
       "has_birch_planks": "2025-07-15 22:34:09 +0000"
+    },
+    "done": true
+  },
+  "lolmlmv:recipes/decorations/warped_loom": {
+    "criteria": {
+      "has_string": "2025-07-15 23:05:02 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/acacia_stone_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-15 22:57:04 +0000"
     },
     "done": true
   },
@@ -337,6 +487,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-07-15 23:04:43 +0000",
       "minecraft:skeleton": "2025-07-15 22:40:03 +0000",
       "minecraft:witch": "2025-07-15 22:35:41 +0000",
       "minecraft:zombie": "2025-07-15 22:43:26 +0000",
@@ -344,9 +495,21 @@
     },
     "done": false
   },
+  "mynethersdelight:recipes/cooking/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-15 22:49:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-07-15 22:33:40 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/birch_stone_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-15 22:57:04 +0000"
     },
     "done": true
   },
@@ -374,6 +537,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-15 23:05:02 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbhv:recipes/misc/dark_oak_beehive": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-15 22:34:09 +0000"
@@ -386,9 +561,27 @@
     },
     "done": true
   },
+  "mstv-mtoolv:recipes/tools/birch_stone_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-07-15 22:26:13 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/spruce_stone_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-15 22:57:04 +0000"
     },
     "done": true
   },
@@ -410,11 +603,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-15 23:05:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-07-15 22:37:08 +0000"
     },
     "done": true
+  },
+  "quad-lolmsmv:recipes/decorations/jungle_cobblestone_smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-15 23:00:06 +0000"
+    },
+    "done": false
   },
   "mstv-mtoolv:recipes/tools/crimson_iron_pickaxe": {
     "criteria": {
@@ -425,6 +630,12 @@
   "quad-lolmbhv:recipes/misc/birch_beehive": {
     "criteria": {
       "has_planks": "2025-07-15 22:34:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_stool": {
+    "criteria": {
+      "has_wool": "2025-07-15 22:50:28 +0000"
     },
     "done": true
   },
@@ -446,15 +657,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-07-15 22:51:03 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/glass_spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-15 23:02:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-07-15 22:35:43 +0000"
     },
     "done": true
   },
+  "quad-lolmbdv:recipes/decorations/bamboo_white_bed": {
+    "criteria": {
+      "has_wool": "2025-07-15 22:50:28 +0000"
+    },
+    "done": true
+  },
   "mstv-mtoolv:recipes/tools/crimson_iron_axe": {
     "criteria": {
       "has_axe_head_material": "2025-07-15 22:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
     },
     "done": true
   },
@@ -470,15 +705,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-15 22:57:41 +0000"
+    },
+    "done": true
+  },
   "lolmcmv-aft:recipes/decorations/spruce_feeding_trough": {
     "criteria": {
       "has_lots_of_items": "2025-07-15 22:35:42 +0000"
     },
     "done": false
   },
+  "quad-lolmbdv:recipes/decorations/jungle_white_bed": {
+    "criteria": {
+      "has_wool": "2025-07-15 22:50:28 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/warped_stone_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "mstv-mtoolv:recipes/tools/warped_iron_pickaxe": {
     "criteria": {
       "has_pickaxe_head_material": "2025-07-15 22:37:02 +0000"
+    },
+    "done": true
+  },
+  "stackedblocks:recipes/building_blocks/stacked_dark_oak_planks": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-15 22:56:06 +0000"
     },
     "done": true
   },
@@ -536,6 +795,12 @@
     },
     "done": true
   },
+  "quad-lolmsmv:recipes/decorations/warped_cobblestone_smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-15 23:00:06 +0000"
+    },
+    "done": false
+  },
   "lolmcmv:recipes/misc/spruce_composter": {
     "criteria": {
       "has_lots_of_items": "2025-07-15 22:35:42 +0000"
@@ -554,15 +819,33 @@
     },
     "done": true
   },
+  "moredelight:combat/stone_knife": {
+    "criteria": {
+      "has_stone": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "quad-lolmjnv:recipes/misc/warped_noteblock": {
     "criteria": {
       "has_redstone": "2025-07-15 22:35:43 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-07-15 22:37:02 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_curtain": {
+    "criteria": {
+      "has_wool": "2025-07-15 22:50:28 +0000"
     },
     "done": true
   },
@@ -590,6 +873,12 @@
     },
     "done": true
   },
+  "quad-lolmbdv:recipes/decorations/mangrove_white_bed": {
+    "criteria": {
+      "has_wool": "2025-07-15 22:50:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_the_recipe": "2025-07-15 22:34:04 +0000"
@@ -598,13 +887,32 @@
   },
   "lolmlmv:recipes/decorations/birch_loom": {
     "criteria": {
+      "has_string": "2025-07-15 23:05:02 +0000",
       "has_planks": "2025-07-15 22:34:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "stackedblocks:recipes/building_blocks/stacked_oak_planks": {
     "criteria": {
       "has_oak_planks": "2025-07-15 22:34:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-07-15 22:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-07-15 22:51:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-15 23:02:11 +0000"
     },
     "done": true
   },
@@ -614,9 +922,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-15 22:49:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-07-15 22:34:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-07-15 23:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-15 22:57:41 +0000"
     },
     "done": true
   },
@@ -638,11 +964,29 @@
     },
     "done": true
   },
+  "mstv-mweaponv:recipes/combat/cherry_stone_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "lolmcmv:recipes/misc/oak_composter": {
     "criteria": {
       "has_lots_of_items": "2025-07-15 22:35:42 +0000"
     },
     "done": false
+  },
+  "mstv-mweaponv:recipes/combat/dark_oak_stone_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/diced_potatoes_with_beef": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-15 22:51:06 +0000"
+    },
+    "done": true
   },
   "mstv-mweaponv:recipes/combat/cherry_iron_sword": {
     "criteria": {
@@ -658,9 +1002,10 @@
   },
   "quad-lolmsmv:recipes/decorations/birch_cobblestone_smoker": {
     "criteria": {
+      "has_furnace": "2025-07-15 23:00:06 +0000",
       "has_logs": "2025-07-15 22:33:40 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
@@ -683,6 +1028,24 @@
   "quad-lolmbdv:recipes/decorations/birch_green_bed": {
     "criteria": {
       "has_planks": "2025-07-15 22:34:09 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/stripped_bound_bamboo_white_bed": {
+    "criteria": {
+      "has_wool": "2025-07-15 22:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/cherry_stone_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-15 22:57:04 +0000"
     },
     "done": true
   },
@@ -734,6 +1097,12 @@
     },
     "done": true
   },
+  "quad-lolmbdv:recipes/decorations/dark_oak_purple_bed": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
   "lolmcmv-aft:recipes/decorations/warped_feeding_trough": {
     "criteria": {
       "has_lots_of_items": "2025-07-15 22:35:42 +0000"
@@ -743,6 +1112,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-07-15 22:34:25 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/dark_oak_green_bed": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
     },
     "done": true
   },
@@ -758,9 +1133,27 @@
     },
     "done": true
   },
+  "quad-lolmbdv:recipes/decorations/dark_oak_magenta_bed": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/birch_stone_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-07-15 22:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-15 22:57:52 +0000"
     },
     "done": true
   },
@@ -770,11 +1163,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-07-15 22:51:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-15 22:51:06 +0000"
+    },
+    "done": true
+  },
   "quad-lolmsmv:recipes/decorations/dark_oak_cobblestone_smoker": {
     "criteria": {
+      "has_furnace": "2025-07-15 23:00:06 +0000",
       "has_logs": "2025-07-15 22:37:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "lolmcbv:recipe/decorations/spruce_chiseled_bookshelf": {
     "criteria": {
@@ -808,9 +1214,28 @@
   },
   "lolmlmv:recipes/decorations/oak_loom": {
     "criteria": {
+      "has_string": "2025-07-15 23:05:02 +0000",
       "has_planks": "2025-07-15 22:34:04 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_stone_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-07-15 22:57:41 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/jungle_stone_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
   },
   "lolmcbv:recipe/decorations/dark_oak_chiseled_bookshelf": {
     "criteria": {
@@ -835,6 +1260,18 @@
       "has_iron_ingot": "2025-07-15 22:37:02 +0000"
     },
     "done": true
+  },
+  "moredelight:recipes/cooking/diced_potatoes_with_porkchop": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-15 22:49:50 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmsmv:recipes/decorations/mangrove_cobblestone_smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-15 23:00:06 +0000"
+    },
+    "done": false
   },
   "biomeswevegone:recipes/transportation/baobab_boat": {
     "criteria": {
@@ -866,6 +1303,18 @@
     },
     "done": true
   },
+  "another_furniture:recipes/dark_oak_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/skyris_boat": {
     "criteria": {
       "in_water": "2025-07-15 22:26:13 +0000"
@@ -875,6 +1324,18 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-07-15 22:36:48 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/warped_stone_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/bound_bamboo_white_bed": {
+    "criteria": {
+      "has_wool": "2025-07-15 22:50:28 +0000"
     },
     "done": true
   },
@@ -914,6 +1375,12 @@
     },
     "done": true
   },
+  "mstv-mweaponv:recipes/combat/mangrove_stone_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/adventure/root": {
     "criteria": {
       "biomeswevegone:amaranth_grassland": "2025-07-15 22:25:37 +0000"
@@ -932,15 +1399,45 @@
     },
     "done": true
   },
+  "quad-lolmbdv:recipes/decorations/cherry_white_bed": {
+    "criteria": {
+      "has_wool": "2025-07-15 22:50:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough": {
     "criteria": {
       "has_wheat": "2025-07-15 22:37:08 +0000"
     },
     "done": true
   },
+  "mstv-mtoolv:recipes/tools/dark_oak_stone_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/dark_oak_wooden_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-07-15 22:37:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-07-15 23:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-15 22:49:50 +0000"
     },
     "done": true
   },
@@ -968,9 +1465,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-07-15 22:51:03 +0000"
+    },
+    "done": true
+  },
   "mstv-mtoolv:recipes/tools/acacia_iron_pickaxe": {
     "criteria": {
       "has_pickaxe_head_material": "2025-07-15 22:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-15 22:57:03 +0000"
     },
     "done": true
   },
@@ -986,9 +1495,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-15 22:57:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_the_recipe": "2025-07-15 22:34:04 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/dark_oak_blue_bed": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
     },
     "done": true
   },
@@ -1004,15 +1525,39 @@
     },
     "done": true
   },
+  "lolmcgt:recipes/decorations/dark_oak_cartography_table": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": false
+  },
+  "lolmft:recipes/decorations/dark_oak_fletching_table": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": false
+  },
   "quad-lolmbdv:recipes/decorations/birch_gray_bed": {
     "criteria": {
       "has_planks": "2025-07-15 22:34:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/cika_boat": {
     "criteria": {
       "in_water": "2025-07-15 22:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-15 22:57:41 +0000"
     },
     "done": true
   },
@@ -1034,15 +1579,45 @@
     },
     "done": false
   },
+  "storagedelight:recipes/decorations/spruce_drawer": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-15 23:02:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-07-15 22:35:42 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/ebony_boat": {
     "criteria": {
       "in_water": "2025-07-15 22:26:13 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_stone_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/crimson_white_bed": {
+    "criteria": {
+      "has_wool": "2025-07-15 22:50:28 +0000"
     },
     "done": true
   },
@@ -1061,6 +1636,12 @@
   "quad-lolmjnv:recipes/misc/cherry_noteblock": {
     "criteria": {
       "has_redstone": "2025-07-15 22:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-07-15 22:51:06 +0000"
     },
     "done": true
   },
@@ -1094,6 +1675,12 @@
     },
     "done": false
   },
+  "mstv-mtoolv:recipes/tools/cherry_stone_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-07-15 22:37:02 +0000"
@@ -1112,6 +1699,30 @@
     },
     "done": true
   },
+  "mstv-mtoolv:recipes/tools/cherry_stone_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_stone_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/acacia_stone_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-07-15 22:44:03 +0000"
@@ -1124,6 +1735,18 @@
     },
     "done": true
   },
+  "lolmblv:recipe/decorations/dark_oak_barrel": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_stone_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "mstv-mtoolv:recipes/tools/birch_brush": {
     "criteria": {
       "has_stick": "2025-07-15 22:34:25 +0000"
@@ -1132,9 +1755,10 @@
   },
   "minecraft:recipes/decoration/smoker": {
     "criteria": {
+      "has_furnace": "2025-07-15 23:00:06 +0000",
       "has_logs": "2025-07-15 22:33:34 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
@@ -1148,15 +1772,33 @@
     },
     "done": true
   },
+  "mstv-mtoolv:recipes/tools/warped_stone_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "quad-lolmbdv:recipes/decorations/birch_light_blue_bed": {
     "criteria": {
       "has_planks": "2025-07-15 22:34:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-07-15 22:51:03 +0000"
+    },
+    "done": true
+  },
   "mstv-base:recipes/misc/oak_stick": {
     "criteria": {
       "has_planks": "2025-07-15 22:34:04 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/dark_oak_brown_bed": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
     },
     "done": true
   },
@@ -1178,9 +1820,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_hoe": "2025-07-15 22:36:39 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_drawer_with_door": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-15 23:02:11 +0000"
     },
     "done": true
   },
@@ -1190,11 +1844,53 @@
     },
     "done": true
   },
+  "stackedblocksfarmersdelight:recipes/building_blocks/stacked_dark_oak_planks": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/dark_oak_pink_bed": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/dark_oak_red_bed": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
+  "lolmlmv:recipes/decorations/crimson_loom": {
+    "criteria": {
+      "has_string": "2025-07-15 23:05:02 +0000"
+    },
+    "done": false
+  },
+  "mstv-base:recipes/misc/dark_oak_stick": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/crimson_stone_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "lolmcbv:recipes/decorations/jungle_chiseled_bookshelf": {
     "criteria": {
       "has_lots_of_items": "2025-07-15 22:35:42 +0000"
     },
     "done": false
+  },
+  "storagedelight:recipes/decorations/spruce_single_door_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-15 23:02:11 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
@@ -1202,9 +1898,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-15 22:34:04 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/cooked_rice_with_beef": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-15 22:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-07-15 22:57:04 +0000"
     },
     "done": true
   },
@@ -1226,6 +1946,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/cooked_rice_with_porkchop": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-15 22:49:50 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/dark_oak_light_blue_bed": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-07-15 22:37:02 +0000"
@@ -1244,9 +1982,21 @@
     },
     "done": true
   },
+  "another_furniture:recipes/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-07-15 22:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-07-15 22:57:41 +0000"
     },
     "done": true
   },
@@ -1262,9 +2012,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-15 23:05:02 +0000"
+    },
+    "done": true
+  },
   "stackedblocksfarmersdelight:recipes/building_blocks/stacked_lapis_blocks": {
     "criteria": {
       "has_lapis_block": "2025-07-15 22:36:44 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/jungle_stone_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-15 22:57:03 +0000"
     },
     "done": true
   },
@@ -1277,6 +2039,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-07-15 22:37:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-15 22:50:28 +0000"
     },
     "done": true
   },
@@ -1316,15 +2084,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-15 22:49:50 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-07-15 22:26:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-15 22:50:28 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/sakura_boat": {
     "criteria": {
       "in_water": "2025-07-15 22:26:13 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_cabinet_with_glass_doors": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-15 23:02:11 +0000"
     },
     "done": true
   },
@@ -1340,15 +2126,46 @@
     },
     "done": true
   },
+  "mstv-mtoolv:recipes/tools/dark_oak_wooden_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-15 22:57:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decoration/lime_bed": {
     "criteria": {
       "has_planks": "2025-07-15 22:34:04 +0000"
     },
     "done": true
   },
+  "quad-lolmbdv:recipes/decorations/dark_oak_cyan_bed": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-15 22:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-15 23:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-15 23:00:06 +0000",
+      "has_the_recipe": "2025-07-15 23:00:06 +0000"
     },
     "done": true
   },
@@ -1361,6 +2178,12 @@
   "rpg_series:misc_items": {
     "criteria": {
       "always": "2025-07-15 22:25:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
     },
     "done": true
   },
@@ -1379,6 +2202,12 @@
       "biomeswevegone:rainbow_beach": "2025-07-15 22:27:28 +0000"
     },
     "done": false
+  },
+  "storagedelight:recipes/decorations/spruce_drawer_with_books": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-15 23:02:11 +0000"
+    },
+    "done": true
   },
   "mstv-mweaponv:recipes/combat/warped_iron_sword": {
     "criteria": {
@@ -1401,6 +2230,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-07-15 22:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-15 22:57:52 +0000"
     },
     "done": true
   },
@@ -1434,6 +2269,30 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-15 22:49:50 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/spruce_stone_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-15 22:49:50 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/cherry_stone_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/florus_boat": {
     "criteria": {
       "in_water": "2025-07-15 22:26:13 +0000"
@@ -1446,9 +2305,27 @@
     },
     "done": true
   },
+  "mstv-mtoolv:recipes/tools/dark_oak_wooden_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
   "quad-lolmbdv:recipes/decorations/birch_cyan_bed": {
     "criteria": {
       "has_planks": "2025-07-15 22:34:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-07-15 22:57:41 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/acacia_stone_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-15 22:57:04 +0000"
     },
     "done": true
   },
@@ -1458,9 +2335,22 @@
     },
     "done": false
   },
+  "mstv-mtoolv:recipes/tools/jungle_stone_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-15 22:57:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-07-15 22:37:02 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmsmv:recipes/decorations/spruce_cobblestone_smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-15 23:00:06 +0000",
+      "has_logs": "2025-07-15 22:56:39 +0000"
     },
     "done": true
   },
@@ -1506,9 +2396,21 @@
     },
     "done": true
   },
+  "another_furniture:recipes/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed": {
     "criteria": {
       "has_the_recipe": "2025-07-15 22:34:04 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/acacia_stone_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-15 22:57:04 +0000"
     },
     "done": true
   },
@@ -1536,9 +2438,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-15 22:50:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-07-15 22:26:13 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_stone_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-15 22:57:04 +0000"
     },
     "done": true
   },
@@ -1548,9 +2462,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-15 22:57:52 +0000"
+    },
+    "done": true
+  },
   "mstv-mtoolv:recipes/tools/birch_wooden_axe": {
     "criteria": {
       "has_axe_head_material": "2025-07-15 22:34:09 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-15 22:50:28 +0000"
     },
     "done": true
   },
@@ -1560,11 +2486,23 @@
     },
     "done": true
   },
+  "quad-lolmsmv:recipes/decorations/acacia_cobblestone_smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-15 23:00:06 +0000"
+    },
+    "done": false
+  },
   "lolmcmv-aft:recipes/decorations/acacia_feeding_trough": {
     "criteria": {
       "has_lots_of_items": "2025-07-15 22:35:42 +0000"
     },
     "done": false
+  },
+  "mstv-mtoolv:recipes/tools/spruce_stone_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
@@ -1575,6 +2513,12 @@
   "minecraft:recipes/decorations/rose_petal_block": {
     "criteria": {
       "has_rose": "2025-07-15 22:40:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
     },
     "done": true
   },
@@ -1590,9 +2534,27 @@
     },
     "done": false
   },
+  "quad-lolmbdv:recipes/decorations/dark_oak_white_bed": {
+    "criteria": {
+      "has_wool": "2025-07-15 22:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/blue_enchanted_boat": {
     "criteria": {
       "in_water": "2025-07-15 22:26:13 +0000"
+    },
+    "done": true
+  },
+  "stackedblocks:recipes/building_blocks/stacked_cobblestone_blocks": {
+    "criteria": {
+      "has_cobblestone": "2025-07-15 22:57:03 +0000"
     },
     "done": true
   },
@@ -1604,13 +2566,20 @@
   },
   "minecraft:recipes/decoration/loom": {
     "criteria": {
+      "has_string": "2025-07-15 23:05:02 +0000",
       "has_planks": "2025-07-15 22:34:04 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-07-15 22:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
     },
     "done": true
   },
@@ -1629,6 +2598,12 @@
   "biomeswevegone:recipes/transportation/witch_hazel_boat": {
     "criteria": {
       "in_water": "2025-07-15 22:26:13 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/crimson_stone_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-15 22:57:04 +0000"
     },
     "done": true
   },
@@ -1674,6 +2649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-15 22:57:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-07-15 22:37:02 +0000"
@@ -1686,15 +2667,51 @@
     },
     "done": false
   },
+  "mstv-mtoolv:recipes/tools/dark_oak_wooden_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-15 22:56:39 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_stone_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmsmv:recipes/decorations/bamboo_cobblestone_smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-15 23:00:06 +0000"
+    },
+    "done": false
+  },
   "mstv-mtoolv:recipes/tools/acacia_iron_shovel": {
     "criteria": {
       "has_shovel_blade_material": "2025-07-15 22:37:02 +0000"
     },
     "done": true
   },
+  "lolmlmv:recipes/decorations/mangrove_loom": {
+    "criteria": {
+      "has_string": "2025-07-15 23:05:02 +0000"
+    },
+    "done": false
+  },
   "mstv-masv:recipes/decorations/birch_armor_stand": {
     "criteria": {
       "has_stick": "2025-07-15 22:34:25 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/dark_oak_black_bed": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
     },
     "done": true
   },
@@ -1716,9 +2733,21 @@
     },
     "done": false
   },
+  "quad-lolmbdv:recipes/decorations/warped_white_bed": {
+    "criteria": {
+      "has_wool": "2025-07-15 22:50:28 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-07-15 22:26:13 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-15 22:50:28 +0000"
     },
     "done": true
   },
@@ -1752,15 +2781,33 @@
     },
     "done": true
   },
+  "mstv-mtoolv:recipes/tools/warped_stone_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-15 22:37:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-15 22:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_bwg_dye_tag": {
     "criteria": {
       "has_dye_tag": "2025-07-15 22:35:17 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/acacia_white_bed": {
+    "criteria": {
+      "has_wool": "2025-07-15 22:50:28 +0000"
     },
     "done": true
   },
@@ -1782,15 +2829,45 @@
     },
     "done": true
   },
+  "mstv-mtoolv:recipes/tools/crimson_stone_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_lamp": {
+    "criteria": {
+      "has_wool": "2025-07-15 22:50:28 +0000"
+    },
+    "done": true
+  },
   "mstv-mtoolv:recipes/tools/acacia_iron_hoe": {
     "criteria": {
       "has_hoe_head_material": "2025-07-15 22:37:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-15 22:50:28 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/zelkova_boat": {
     "criteria": {
       "in_water": "2025-07-15 22:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-15 22:57:41 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/spruce_white_bed": {
+    "criteria": {
+      "has_wool": "2025-07-15 22:50:28 +0000"
     },
     "done": true
   },
@@ -1806,6 +2883,12 @@
     },
     "done": true
   },
+  "moredelight:recipes/food/porkchop_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-07-15 23:03:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-07-15 22:29:26 +0000"
@@ -1815,6 +2898,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-07-15 22:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_stone_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-15 22:57:04 +0000"
     },
     "done": true
   },
@@ -1842,6 +2931,12 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/small_spruce_drawers": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-15 23:02:11 +0000"
+    },
+    "done": true
+  },
   "mstv-mweaponv:recipes/combat/acacia_iron_sword": {
     "criteria": {
       "has_sword_blade_material": "2025-07-15 22:37:02 +0000"
@@ -1860,9 +2955,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-07-15 22:51:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-15 22:34:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-07-15 22:50:28 +0000"
     },
     "done": true
   },
@@ -1908,9 +3015,39 @@
     },
     "done": true
   },
+  "lolmlmv:recipes/decorations/acacia_loom": {
+    "criteria": {
+      "has_string": "2025-07-15 23:05:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-07-15 22:57:52 +0000"
+    },
+    "done": true
+  },
+  "lolmlmv:recipes/decorations/cherry_loom": {
+    "criteria": {
+      "has_string": "2025-07-15 23:05:02 +0000"
+    },
+    "done": false
+  },
+  "quad-lolmbdv:recipes/decorations/dark_oak_lime_bed": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
   "stackedblocks:recipes/building_blocks/stacked_lapis_blocks": {
     "criteria": {
       "has_lapis_block": "2025-07-15 22:36:44 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/jungle_stone_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-15 22:57:04 +0000"
     },
     "done": true
   },
@@ -1944,6 +3081,30 @@
     },
     "done": true
   },
+  "mstv-mweaponv:recipes/combat/crimson_stone_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-15 22:50:29 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/jungle_stone_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-15 22:50:29 +0000"
+    },
+    "done": true
+  },
   "mstv-mtoolv:recipes/tools/spruce_iron_pickaxe": {
     "criteria": {
       "has_pickaxe_head_material": "2025-07-15 22:37:02 +0000"
@@ -1953,6 +3114,18 @@
   "mstv-mtoolv:recipes/tools/birch_wooden_hoe": {
     "criteria": {
       "has_hoe_head_material": "2025-07-15 22:34:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/acacia_stone_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/dark_oak_light_gray_bed": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
     },
     "done": true
   },
@@ -1974,9 +3147,33 @@
     },
     "done": true
   },
+  "lolmlmv:recipes/decorations/jungle_loom": {
+    "criteria": {
+      "has_string": "2025-07-15 23:05:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-15 23:05:02 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_bookshelf_with_door": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-15 23:02:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-07-15 22:44:03 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/dark_oak_gray_bed": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
     },
     "done": true
   },
@@ -1992,9 +3189,21 @@
     },
     "done": false
   },
+  "mstv-mtoolv:recipes/tools/birch_stone_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "mstv-mtoolv:recipes/tools/cherry_iron_hoe": {
     "criteria": {
       "has_hoe_head_material": "2025-07-15 22:37:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-07-15 23:05:42 +0000"
     },
     "done": true
   },
@@ -2022,9 +3231,27 @@
     },
     "done": true
   },
+  "mstv-mweaponv:recipes/combat/bamboo_stone_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-15 22:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_hoe": "2025-07-15 22:36:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-07-15 23:01:12 +0000"
     },
     "done": true
   },
@@ -2038,6 +3265,7 @@
     "criteria": {
       "minecraft:forest": "2025-07-15 22:33:25 +0000",
       "minecraft:river": "2025-07-15 22:25:59 +0000",
+      "minecraft:savanna": "2025-07-15 22:51:33 +0000",
       "minecraft:plains": "2025-07-15 22:32:57 +0000"
     },
     "done": false
@@ -2072,6 +3300,12 @@
     },
     "done": false
   },
+  "lolmct:recipes/decorations/dark_oak_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
   "mstv-mtoolv:recipes/tools/spruce_iron_shovel": {
     "criteria": {
       "has_shovel_blade_material": "2025-07-15 22:37:02 +0000"
@@ -2084,23 +3318,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-07-15 22:57:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-07-15 22:57:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-15 22:34:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-15 22:57:41 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/spruce_stone_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-15 22:57:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "spider_eye": "2025-07-15 22:35:52 +0000"
+      "cooked_porkchop": "2025-07-15 23:05:36 +0000",
+      "spider_eye": "2025-07-15 22:35:52 +0000",
+      "bread": "2025-07-15 22:56:59 +0000",
+      "cooked_mutton": "2025-07-15 23:01:17 +0000"
     },
     "done": false
+  },
+  "mstv-mweaponv:recipes/combat/spruce_stone_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
   },
   "lolmcgt:recipes/decorations/oak_cartography_table": {
     "criteria": {
       "has_planks": "2025-07-15 22:34:04 +0000"
     },
     "done": false
+  },
+  "lolmlmv:recipes/decorations/dark_oak_loom": {
+    "criteria": {
+      "has_string": "2025-07-15 23:05:02 +0000",
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
   },
   "lolmcmv:recipes/misc/acacia_composter": {
     "criteria": {
@@ -2126,6 +3406,12 @@
     },
     "done": true
   },
+  "quad-lolmjnv:recipes/misc/dark_oak_jukebox": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
   "quad-lolmbdv:recipes/decorations/birch_light_gray_bed": {
     "criteria": {
       "has_planks": "2025-07-15 22:34:09 +0000"
@@ -2138,9 +3424,34 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-15 22:57:04 +0000"
+    },
+    "done": true
+  },
   "quad-lolmjnv:recipes/misc/spruce_noteblock": {
     "criteria": {
       "has_redstone": "2025-07-15 22:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-15 23:05:02 +0000",
+      "has_the_recipe": "2025-07-15 23:05:02 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/dark_oak_orange_bed": {
+    "criteria": {
+      "has_planks": "2025-07-15 22:56:06 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/crimson_stone_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-15 22:57:04 +0000"
     },
     "done": true
   },
@@ -2150,9 +3461,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-07-15 22:57:41 +0000"
+    },
+    "done": true
+  },
   "mstv-mweaponv:recipes/combat/crimson_iron_sword": {
     "criteria": {
       "has_sword_blade_material": "2025-07-15 22:37:02 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/birch_stone_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-15 22:57:04 +0000"
     },
     "done": true
   },
@@ -2195,6 +3518,12 @@
   "mstv-mtoolv:recipes/tools/dark_oak_iron_hoe": {
     "criteria": {
       "has_hoe_head_material": "2025-07-15 22:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-07-15 22:51:06 +0000"
     },
     "done": true
   },

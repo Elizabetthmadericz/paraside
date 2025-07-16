@@ -3938,5 +3938,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-16 17:17:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

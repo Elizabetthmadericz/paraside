@@ -875,3 +875,6 @@ com.google.gson.JsonParseException: Map entry 'c' : Failed to parse either. Firs
 [16:32:18] [Worker-Main-5/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
 [16:32:21] [Server thread/WARN]: ApioOwO moved too quickly! -0.3949313733805866,0.15000000596046448,-10.28675535628247
 [16:34:06] [Server thread/INFO]: Villager class_1646['Villager'/1289, l='ServerLevel[Testeo12]', x=-1367.37, y=63.00, z=-815.90] died, message: 'Villager was slain by Zombie'
+[16:43:49] [Server thread/INFO]: ApioOwO lost connection: Disconnected
+[16:43:49] [Server thread/INFO]: ApioOwO left the game
+[16:43:49] [Server thread/INFO]: [voicechat] Disconnecting client ApioOwO

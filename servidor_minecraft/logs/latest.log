@@ -927,3 +927,14 @@ com.google.gson.JsonParseException: Map entry 'c' : Failed to parse either. Firs
 [17:16:22] [Server thread/INFO]: No grave backup generated (empty grave)
 [17:16:24] [Server thread/INFO]: [ApioOwO: Teleported ApioOwO to ApioOwO]
 [17:16:46] [Server thread/INFO]: [ApioOwO: Teleported ApioOwO to Mat_525]
+[17:27:59] [Server thread/INFO]: Mat_525 claimed a grave belonging to Mat_525 at -607, 68, -209, minecraft:overworld
+[17:28:04] [Server thread/INFO]: Mat_525 was slain by Spider
+[17:29:38] [Server thread/INFO]: Mat_525 drowned
+[17:30:40] [Server thread/INFO]: Mat_525 claimed a grave belonging to Mat_525 at -573, 61, -238, minecraft:overworld
+[17:31:31] [Server thread/INFO]: Mat_525 was blown up by Creeper
+[17:31:37] [Server thread/INFO]: <Mat_525> wthit
+[17:32:10] [Server thread/INFO]: Mat_525 claimed a grave belonging to Mat_525 at -580, 63, -211, minecraft:overworld
+[17:32:22] [Server thread/INFO]: Mat_525 was doomed to fall by Zombie Villager
+[17:32:50] [Server thread/INFO]: Mat_525 lost connection: Disconnected
+[17:32:50] [Server thread/INFO]: Mat_525 left the game
+[17:32:50] [Server thread/INFO]: [voicechat] Disconnecting client Mat_525

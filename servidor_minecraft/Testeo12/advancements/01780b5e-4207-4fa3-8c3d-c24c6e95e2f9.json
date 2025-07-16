@@ -1095,6 +1095,7 @@
     "criteria": {
       "minecraft:cave_spider": "2025-07-15 23:04:43 +0000",
       "minecraft:skeleton": "2025-07-15 22:40:03 +0000",
+      "minecraft:magma_cube": "2025-07-16 03:20:13 +0000",
       "minecraft:witch": "2025-07-15 22:35:41 +0000",
       "minecraft:zombie": "2025-07-15 22:43:26 +0000",
       "minecraft:creeper": "2025-07-15 22:40:03 +0000"
@@ -1169,15 +1170,17 @@
   },
   "lolmcbv:recipes/decorations/spruce_chiseled_bookshelf": {
     "criteria": {
-      "has_lots_of_items": "2025-07-15 22:35:42 +0000"
+      "has_lots_of_items": "2025-07-15 22:35:42 +0000",
+      "has_planks": "2025-07-16 03:19:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "lolmcmv-aft:recipes/decorations/spruce_feeding_trough": {
     "criteria": {
-      "has_lots_of_items": "2025-07-15 22:35:42 +0000"
+      "has_lots_of_items": "2025-07-15 22:35:42 +0000",
+      "has_planks": "2025-07-16 03:19:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "lolmcbv:recipe/decorations/cherry_chiseled_bookshelf": {
     "criteria": {
@@ -1187,9 +1190,10 @@
   },
   "lolmcmv:recipes/misc/spruce_composter": {
     "criteria": {
-      "has_lots_of_items": "2025-07-15 22:35:42 +0000"
+      "has_lots_of_items": "2025-07-15 22:35:42 +0000",
+      "has_planks": "2025-07-16 03:19:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "lolmcmv:recipes/misc/dark_oak_composter": {
     "criteria": {
@@ -1229,9 +1233,11 @@
   },
   "lolmcbv:recipe/decorations/spruce_chiseled_bookshelf": {
     "criteria": {
-      "has_lots_of_items": "2025-07-15 22:35:42 +0000"
+      "has_the_recipe": "2025-07-16 03:19:19 +0000",
+      "has_lots_of_items": "2025-07-15 22:35:42 +0000",
+      "has_planks": "2025-07-16 03:19:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "lolmcmv-aft:recipes/decorations/cherry_feeding_trough": {
     "criteria": {
@@ -3644,6 +3650,330 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-07-15 23:14:02 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/bamboo_gray_bed": {
+    "criteria": {
+      "has_wool": "2025-07-16 03:40:06 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_stool": {
+    "criteria": {
+      "has_wool": "2025-07-16 03:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-16 03:30:34 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 03:47:43 +0000"
+    },
+    "done": false
+  },
+  "quad-lolmbdv:recipes/decorations/mangrove_gray_bed": {
+    "criteria": {
+      "has_wool": "2025-07-16 03:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-07-16 03:23:58 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-07-16 03:40:06 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 03:47:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-07-16 03:40:06 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/iron_nugget_from_smelting_priest_robe_legs": {
+    "criteria": {
+      "has_priest_robe_legs": "2025-07-16 03:26:27 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_brush": {
+    "criteria": {
+      "has_stick": "2025-07-16 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-07-16 03:40:06 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 03:47:43 +0000"
+    },
+    "done": false
+  },
+  "mstv-masv:recipes/decorations/dark_oak_armor_stand": {
+    "criteria": {
+      "has_stick": "2025-07-16 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-07-16 03:23:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 03:47:43 +0000"
+    },
+    "done": false
+  },
+  "lolmlv:recipes/decorations/spruce_lectern": {
+    "criteria": {
+      "has_planks": "2025-07-16 03:19:19 +0000"
+    },
+    "done": false
+  },
+  "paladins:recipes/misc/iron_nugget_from_blasting_priest_robe_legs": {
+    "criteria": {
+      "has_priest_robe_legs": "2025-07-16 03:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-07-16 03:40:06 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/dark_oak_arrow": {
+    "criteria": {
+      "has_stick": "2025-07-16 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 03:47:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 03:47:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-16 03:30:34 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_flower_box": {
+    "criteria": {
+      "has_slab": "2025-07-16 03:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-16 03:30:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-07-16 03:26:25 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/spruce_gray_bed": {
+    "criteria": {
+      "has_wool": "2025-07-16 03:40:06 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/jungle_gray_bed": {
+    "criteria": {
+      "has_wool": "2025-07-16 03:40:06 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 03:47:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-16 03:29:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 03:47:43 +0000"
+    },
+    "done": false
+  },
+  "mstv-mweaponv:recipes/combat/dark_oak_bow": {
+    "criteria": {
+      "has_stick": "2025-07-16 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-16 03:19:19 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_bench": {
+    "criteria": {
+      "has_slab": "2025-07-16 03:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-16 03:20:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 03:47:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-07-16 03:23:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 03:47:43 +0000"
+    },
+    "done": false
+  },
+  "another_furniture:recipes/gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-07-16 03:40:06 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_shutter": {
+    "criteria": {
+      "has_slab": "2025-07-16 03:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-16 03:30:34 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 03:47:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-07-16 03:23:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 03:47:43 +0000"
+    },
+    "done": false
+  },
+  "another_furniture:recipes/gray_lamp": {
+    "criteria": {
+      "has_wool": "2025-07-16 03:40:06 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/stripped_bound_bamboo_gray_bed": {
+    "criteria": {
+      "has_wool": "2025-07-16 03:40:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-07-16 03:20:01 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/warped_gray_bed": {
+    "criteria": {
+      "has_wool": "2025-07-16 03:40:06 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-16 03:40:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-07-16 03:40:06 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/crimson_gray_bed": {
+    "criteria": {
+      "has_wool": "2025-07-16 03:40:06 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/bound_bamboo_gray_bed": {
+    "criteria": {
+      "has_wool": "2025-07-16 03:40:06 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/cherry_gray_bed": {
+    "criteria": {
+      "has_wool": "2025-07-16 03:40:06 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmbdv:recipes/decorations/acacia_gray_bed": {
+    "criteria": {
+      "has_wool": "2025-07-16 03:40:06 +0000"
     },
     "done": true
   },

@@ -904,3 +904,26 @@ com.google.gson.JsonParseException: Map entry 'c' : Failed to parse either. Firs
 [16:58:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 01780b5e-4207-4fa3-8c3d-c24c6e95e2f9
 [16:58:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 01780b5e-4207-4fa3-8c3d-c24c6e95e2f9
 [16:58:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ApioOwO (01780b5e-4207-4fa3-8c3d-c24c6e95e2f9) successfully connected to voice chat
+[17:10:36] [User Authenticator #4/INFO]: UUID of player Mat_525 is cabe8ac9-73f8-4562-aa82-37f6657fa14f
+[17:10:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@2760311d[id=cabe8ac9-73f8-4562-aa82-37f6657fa14f,name=Mat_525,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc1MjY4NTgzNTkxMywKICAicHJvZmlsZUlkIiA6ICJjYWJlOGFjOTczZjg0NTYyYWE4MjM3ZjY2NTdmYTE0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXRfNTI1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFmMjc5MmEyMDI5MDM2NDRjYzdlZWQyNzE3OTRhOGI1YWI2YzFhYjNhMTYyYTg3YWRkNGZmZTZlOTlkZGU1MmMiCiAgICB9CiAgfQp9, signature=UFnDmXhI4EpJf5TFntkFYc1dbBhgOKHuyzuqRyPTiUwteaekTA/wEZlwsbhHWQGcV5XDcF0s2wB15Mc0nvXSx+m4Xsqf+VVmyYY6hTNi4Pmd3wz7z8n24EqWvF9wejkxlMXiUbkpeVtsmApZUaHQUtGWBKX1uDcdunilMJGB1d+4QrItFYu8OzCXodktJAWROLtSJsmXsiDDZx+aWEQ6usRmMRlh5pKjcI2RyqUISrKTsMqtNPEmtcs+FfumQj2Zw01K9LTrsemtNg8B/FZrF49BDDUw4melmm9+VYe0xD8Ea0f58DJkAt7CxhaaGoDXznXXoiSES4KbTVXEnffsE3gXjuptkh9jFBgdrEB7ghQoYzAGoys+1OTuYkvQy3eHpzwIcBDVeGDpLHTHHU8IQ0qJDqJDwF5AghLOVBin+EtUqGG3QBtQqtvVBUu7fJjNG6tPTvvByPG2Nc96Miy2bYSqSP/Ysv763sNW+OAPlGwqUxYlwB9JoH2u3WZWrSZoM19XvwmRNK0wQthOPwZfAGD2R7qouEQzrpvhRk9ApdMTOdPtIZPSkCJWZ6FizNZ4fO8C4h3kjBtGZ6krfUiE1QhFyddPNHcKHp5gkRXmNMYkDotoad1a7qfgHZzh/9QVrvl/yvr6/ACWgJVatWHCPS72IaCIwDUOGG3YEv0IMhI=]]}] lost connection: Disconnected
+[17:13:48] [User Authenticator #5/INFO]: UUID of player Mat_525 is cabe8ac9-73f8-4562-aa82-37f6657fa14f
+[17:13:54] [Server thread/INFO]: Mat_525[/127.75.243.67:39447] logged in with entity id 8840 at (-550.5, 64.0, -210.5)
+[17:13:54] [Server thread/INFO]: Sending server config values to client
+[17:13:54] [Server thread/INFO]: Mat_525 joined the game
+[17:13:55] [Server thread/INFO]: Priority overwritten for player Mat_525. Claiming: GRAVE / Robbing: INVENTORY
+[17:13:55] [Server thread/INFO]: [voicechat] Received secret request of Mat_525 (18)
+[17:13:55] [Server thread/INFO]: [voicechat] Sent secret to Mat_525
+[17:13:55] [Server thread/INFO]: Receiving client config
+[17:13:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cabe8ac9-73f8-4562-aa82-37f6657fa14f
+[17:13:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cabe8ac9-73f8-4562-aa82-37f6657fa14f
+[17:13:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Mat_525 (cabe8ac9-73f8-4562-aa82-37f6657fa14f) successfully connected to voice chat
+[17:15:01] [Server thread/INFO]: [ApioOwO: Teleported ApioOwO to Mat_525]
+[17:15:39] [Server thread/INFO]: Mat_525 was shot by Skeleton
+[17:16:00] [Server thread/INFO]: [ApioOwO: Set the time to 1000]
+[17:16:07] [Server thread/INFO]: Mat_525 was slain by Zombie
+[17:16:11] [Server thread/INFO]: No grave backup generated (empty grave)
+[17:16:21] [Server thread/INFO]: Mat_525 was slain by Zombie
+[17:16:21] [Server thread/INFO]: Mat_525 has made the advancement [Monster Hunter]
+[17:16:22] [Server thread/INFO]: No grave backup generated (empty grave)
+[17:16:24] [Server thread/INFO]: [ApioOwO: Teleported ApioOwO to ApioOwO]
+[17:16:46] [Server thread/INFO]: [ApioOwO: Teleported ApioOwO to Mat_525]

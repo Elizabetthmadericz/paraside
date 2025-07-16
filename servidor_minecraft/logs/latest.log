@@ -878,3 +878,18 @@ com.google.gson.JsonParseException: Map entry 'c' : Failed to parse either. Firs
 [16:43:49] [Server thread/INFO]: ApioOwO lost connection: Disconnected
 [16:43:49] [Server thread/INFO]: ApioOwO left the game
 [16:43:49] [Server thread/INFO]: [voicechat] Disconnecting client ApioOwO
+[16:48:58] [User Authenticator #2/INFO]: UUID of player ApioOwO is 01780b5e-4207-4fa3-8c3d-c24c6e95e2f9
+[16:49:02] [Server thread/INFO]: ApioOwO[/127.237.250.73:52211] logged in with entity id 6030 at (-708.3729658851129, 71.0, -120.76397493209873)
+[16:49:02] [Server thread/INFO]: Sending server config values to client
+[16:49:02] [Server thread/INFO]: ApioOwO joined the game
+[16:49:04] [Server thread/INFO]: [voicechat] Received secret request of ApioOwO (18)
+[16:49:04] [Server thread/INFO]: [voicechat] Sent secret to ApioOwO
+[16:49:04] [Server thread/INFO]: Priority overwritten for player ApioOwO. Claiming: GRAVE / Robbing: INVENTORY
+[16:49:05] [Server thread/INFO]: Receiving client config
+[16:49:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 01780b5e-4207-4fa3-8c3d-c24c6e95e2f9
+[16:49:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 01780b5e-4207-4fa3-8c3d-c24c6e95e2f9
+[16:49:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ApioOwO (01780b5e-4207-4fa3-8c3d-c24c6e95e2f9) successfully connected to voice chat
+[16:50:16] [Server thread/INFO]: ApioOwO lost connection: Disconnected
+[16:50:16] [Server thread/INFO]: ApioOwO left the game
+[16:50:16] [Server thread/INFO]: [voicechat] Disconnecting client ApioOwO
+[16:50:16] [Server thread/INFO]: UNLOAD GlobalSpawnCount: 0 UNLOADED_TO_CHUNK dfd21858-386f-4254-8385-a571045d52c6

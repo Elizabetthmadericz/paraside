@@ -1,14 +1,14 @@
-[22:23:08] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.14
-[22:23:08] [ForkJoinPool-1-worker-3/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+[03:01:58] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.14
+[03:02:00] [ForkJoinPool-1-worker-4/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 12 column 11
-[22:23:08] [ForkJoinPool-1-worker-3/WARN]: The mod "takesapillage" contains invalid entries in its mod json:
+[03:02:01] [ForkJoinPool-1-worker-3/WARN]: The mod "takesapillage" contains invalid entries in its mod json:
 - Unsupported root entry "mc-publish" at line 51 column 14
-[22:23:08] [ForkJoinPool-1-worker-4/WARN]: Mod oceansdelight uses the version fdrf-fabric-1.0.2-1.21 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fdrf'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[22:23:08] [ForkJoinPool-1-worker-3/WARN]: Mod dontdothat uses the version 1.21-1.21.2_1.3.0 which isn't compatible with Loader's extended semantic version format (Invalid prerelease string '1.21.2_1.3.0'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[22:23:09] [main/WARN]: Warnings were found!
+[03:02:02] [ForkJoinPool-1-worker-4/WARN]: Mod oceansdelight uses the version fdrf-fabric-1.0.2-1.21 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fdrf'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[03:02:02] [ForkJoinPool-1-worker-4/WARN]: Mod dontdothat uses the version 1.21-1.21.2_1.3.0 which isn't compatible with Loader's extended semantic version format (Invalid prerelease string '1.21.2_1.3.0'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[03:02:05] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.3 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[22:23:09] [main/INFO]: Loading 247 mods:
+[03:02:05] [main/INFO]: Loading 247 mods:
 	- accessories 1.1.0-beta.44+1.21.1
 	- almanac 1.0.2
 	- alternate-current 1.9.0
@@ -291,340 +291,245 @@
 	   |-- org_javassist_javassist 3.29.2-GA
 	   \-- org_reflections_reflections 0.10.2
 	- zombieawareness 1.21.0-1.13.2
-[22:23:09] [main/WARN]: Found 1 non-fabric mod:
+[03:02:05] [main/WARN]: Found 1 non-fabric mod:
 	- accessories_cclayer-9.3.1-beta.27+1.21.1-neoforge.jar
-[22:23:10] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/paraside/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:23:10] [main/INFO]: Compatibility level set to JAVA_17
-[22:23:10] [main/INFO]: Compatibility level set to JAVA_21
-[22:23:11] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:23:11] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:23:11] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[22:23:11] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
-[22:23:11] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
-[22:23:11] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
-[22:23:11] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
-[22:23:11] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
-[22:23:11] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
-[22:23:11] [main/INFO]: Loaded configuration file for Lithium: 149 options available, 0 override(s) found
-[22:23:11] [main/INFO]: Loaded configuration file for ModernFix 5.24.1+mc1.21.1: 64 options available, 0 override(s) found
-[22:23:11] [main/INFO]: Applying Nashorn fix
-[22:23:11] [main/INFO]: mToolV loaded
-[22:23:11] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:23:11] [main/WARN]: Reference map 'prickle.refmap.json' for prickle.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:23:11] [main/WARN]: Reference map 'prickle.refmap.json' for prickle.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:23:11] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:23:11] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:23:11] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:23:11] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:23:11] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[22:23:11] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_item_abilities.mixins.json:FishingHookRendererMixin from mod porting_lib_item_abilities
-[22:23:12] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
-[22:23:12] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
-[22:23:12] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
-[22:23:12] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
-[22:23:12] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
-[22:23:12] [main/WARN]: Error loading class: net/minecraft/class_638 (java.lang.ClassNotFoundException: net/minecraft/class_638)
-[22:23:12] [main/WARN]: @Mixin target net.minecraft.class_638 was not found porting_lib_level_events.mixins.json:client.ClientLevelMixin from mod porting_lib_level_events
-[22:23:12] [main/WARN]: Error loading class: net/minecraft/class_1132 (java.lang.ClassNotFoundException: net/minecraft/class_1132)
-[22:23:12] [main/WARN]: @Mixin target net.minecraft.class_1132 was not found zombieawareness.mixins_fabric.json:MixinIntegratedServer from mod zombieawareness
-[22:23:13] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0-rc.2).
-[22:23:15] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin from mod crittersandcompanions::handler$zpm000$crittersandcompanions$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[22:23:16] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[22:23:16] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
-[22:23:17] [main/WARN]: Method overwrite conflict for scheduleRandomTick in ohthetreesyoullgrow.mixins.json:chunk.MixinChunkAccess from mod ohthetreesyoullgrow, previously written by corgitaco.corgilib.mixin.chunk.MixinChunkAccess. Skipping method.
-[22:23:17] [main/WARN]: Method overwrite conflict for getScheduledRandomTicks in ohthetreesyoullgrow.mixins.json:chunk.MixinChunkAccess from mod ohthetreesyoullgrow, previously written by corgitaco.corgilib.mixin.chunk.MixinChunkAccess. Skipping method.
-[22:23:20] [main/INFO]: Vanilla bootstrap took 6418 milliseconds
-[22:23:21] [main/INFO]: Registered Trinkets Reloaded Listeners
-[22:23:21] [main/INFO]: [Animal Feeding Trough] Load Complete! Enjoy :D
-[22:23:21] [main/INFO]: Reflections took 48 ms to scan 1 urls, producing 1 keys and 3 values
-[22:23:21] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[22:23:21] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[22:23:21] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[22:23:21] [main/INFO]: Initializing network...
-[22:23:21] [main/INFO]: Initialized network!
-[22:23:21] [main/INFO]: Registering Oh The Biomes We've Gone data components
-[22:23:21] [main/ERROR]: No data fixer registered for man_o_war
-[22:23:21] [main/ERROR]: No data fixer registered for pumpkin_warden
-[22:23:21] [main/ERROR]: No data fixer registered for oddion
-[22:23:21] [main/ERROR]: No data fixer registered for wreath
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone items
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Blocks
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Wood
-[22:23:22] [main/ERROR]: No data fixer registered for biomeswevegone:sign
-[22:23:22] [main/ERROR]: No data fixer registered for biomeswevegone:hanging_sign
-[22:23:22] [main/ERROR]: No data fixer registered for biomeswevegone:pumpkin_burrow
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Block Entities
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Entities
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Creative Tabs
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Sounds
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Block Predicate
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone State Providers
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Tree Decorators
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Custom Features
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Structure Pieces
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Custom Structure Types
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Configured Features
-[22:23:22] [main/INFO]: Creating and Registering Overworld Vegetation Configured Features
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Tree Configured Features
-[22:23:22] [main/INFO]: Creating and Registering Vanilla Configured Features
-[22:23:22] [main/INFO]: Registering Oh The Biomes You'll Go Overworld Configured Features
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Placed Features
-[22:23:22] [main/INFO]: Creating and Registering Overworld Tree Placed Features
-[22:23:22] [main/INFO]: Creating and Registering Overworld Vegetation Placed Features
-[22:23:22] [main/INFO]: Creating and Registering Vanilla Placed Features
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Custom Surface Rules
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Template Pools
-[22:23:22] [main/INFO]: Registering Oh The Biome's We've Gone Village Template Pools
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Poi Types
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Villager Professions
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Custom Structure Processors
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone villager types
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Schedules
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Memory Module Types
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Sensor Types
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Map Decoration Types
-[22:23:22] [main/INFO]: Registering Oh The Biomes We've Gone Entity SubPredicates
-[22:23:22] [main/INFO]: Creating and Registering BWG Biome Modifiers for Vanilla Biomes
-[22:23:23] [main/INFO]: Customized Bundles!
-[22:23:23] [main/INFO]: Loading Collective version 8.3.
-[22:23:23] [main/INFO]: fabric loader environment detected
-[22:23:23] [main/INFO]: Registering Item Groups for cratedelight
-[22:23:23] [main/INFO]: Registering ModBLocks for cratedelight
-[22:23:23] [main/ERROR]: No data fixer registered for jungle_creeper
-[22:23:23] [main/ERROR]: No data fixer registered for bamboo_creeper
-[22:23:23] [main/ERROR]: No data fixer registered for desert_creeper
-[22:23:23] [main/ERROR]: No data fixer registered for badlands_creeper
-[22:23:23] [main/ERROR]: No data fixer registered for hills_creeper
-[22:23:23] [main/ERROR]: No data fixer registered for savannah_creeper
-[22:23:23] [main/ERROR]: No data fixer registered for mushroom_creeper
-[22:23:23] [main/ERROR]: No data fixer registered for swamp_creeper
-[22:23:23] [main/ERROR]: No data fixer registered for dripstone_creeper
-[22:23:23] [main/ERROR]: No data fixer registered for cave_creeper
-[22:23:23] [main/ERROR]: No data fixer registered for dark_oak_creeper
-[22:23:23] [main/ERROR]: No data fixer registered for spruce_creeper
-[22:23:23] [main/ERROR]: No data fixer registered for beach_creeper
-[22:23:23] [main/ERROR]: No data fixer registered for snowy_creeper
-[22:23:23] [main/ERROR]: No data fixer registered for ocean_creeper
-[22:23:23] [main/ERROR]: No data fixer registered for birch_creeper
-[22:23:24] [main/ERROR]: No data fixer registered for dragonfly
-[22:23:24] [main/ERROR]: No data fixer registered for dumbo_octopus
-[22:23:24] [main/ERROR]: No data fixer registered for ferret
-[22:23:24] [main/ERROR]: No data fixer registered for jumping_spider
-[22:23:24] [main/ERROR]: No data fixer registered for koi_fish
-[22:23:24] [main/ERROR]: No data fixer registered for leaf_insect
-[22:23:24] [main/ERROR]: No data fixer registered for otter
-[22:23:24] [main/ERROR]: No data fixer registered for red_panda
-[22:23:24] [main/ERROR]: No data fixer registered for sea_bunny
-[22:23:24] [main/ERROR]: No data fixer registered for shima_enaga
-[22:23:24] [main/INFO]: YAaargh!
-[22:23:24] [main/INFO]: Loaded config farmersdelight-common.json
-[22:23:24] [main/INFO]: Initializing JamLib on Fabric
-[22:23:24] [main/INFO]: Initialize mod Library Ferret
-[22:23:24] [main/INFO]: Initialized mod Library Ferret
-[22:23:24] [main/INFO]: MCMV-AFT:"AFT loaded."
-[22:23:24] [main/INFO]: Definitely not up to no good
-[22:23:25] [main/INFO]: Configuration has been loaded
-[22:23:25] [main/ERROR]: No data fixer registered for bullet
-[22:23:25] [main/INFO]: Registering Items for oceansdelight
-[22:23:25] [main/INFO]: Registering Blocks for oceansdelight
-[22:23:25] [main/INFO]: Registering tabs for oceansdelight
-[22:23:25] [main/INFO]: who invited dafuqs
-[22:23:25] [main/INFO]: Registering Item Groups for plushie_buddies
-[22:23:25] [main/INFO]: Registering Mod Items for plushie_buddies
-[22:23:25] [main/INFO]: Registering ModBlocks for plushie_buddies
-[22:23:25] [main/INFO]: Registering Sounds for plushie_buddies
-[22:23:25] [main/INFO]: [Quad] Initialising the Quad mod power! >:P
-[22:23:25] [main/INFO]: [Quad] loaded default fuel values
-[22:23:25] [main/INFO]: [Quad] loaded quad fuel tags
-[22:23:25] [main/INFO]: MCRV:"MCT loaded."
-[22:23:25] [main/INFO]: Reflections took 13 ms to scan 1 urls, producing 6 keys and 40 values
-[22:23:25] [main/INFO]: Reflections took 8 ms to scan 1 urls, producing 6 keys and 40 values
-[22:23:25] [main/INFO]: Registering Ribbit instruments...
-[22:23:25] [main/INFO]: Registering Ribbit umbrella types...
-[22:23:25] [main/INFO]: Registering Ribbit professions...
-[22:23:25] [main/INFO]: Updated config file at /workspaces/paraside/servidor_minecraft/config/rightclickharvest.json5
-[22:23:25] [main/INFO]: Updated config file at /workspaces/paraside/servidor_minecraft/config/rightclickharvest.json5
-[22:23:25] [main/INFO]: Initializing Right Click Harvest on FABRIC
-[22:23:25] [main/ERROR]: No data fixer registered for burned
-[22:23:25] [main/ERROR]: No data fixer registered for frostbitten
-[22:23:25] [main/ERROR]: No data fixer registered for swampy
-[22:23:25] [main/ERROR]: No data fixer registered for undead_miner
-[22:23:25] [main/ERROR]: No data fixer registered for mummy
-[22:23:25] [main/ERROR]: No data fixer registered for glacial_hunter
-[22:23:25] [main/ERROR]: No data fixer registered for hunter_wolf
-[22:23:25] [main/ERROR]: No data fixer registered for scarab
-[22:23:25] [main/ERROR]: No data fixer registered for dead_beard
-[22:23:25] [main/ERROR]: No data fixer registered for zombie_lackey
-[22:23:25] [main/ERROR]: No data fixer registered for skeleton_lackey
-[22:23:25] [main/ERROR]: No data fixer registered for immortal
-[22:23:25] [main/ERROR]: No data fixer registered for zap
-[22:23:25] [main/ERROR]: No data fixer registered for primed_tnt_barrel
-[22:23:25] [main/INFO]: Registering items for rusticdelight
-[22:23:25] [main/INFO]: Registering blocks for rusticdelight
-[22:23:25] [main/INFO]: Registering potions for rusticdelight
-[22:23:25] [main/INFO]: Registering biome modifications for rusticdelight
-[22:23:25] [main/INFO]: Registering item group for rusticdelight
-[22:23:26] [main/INFO]: Shield API initialized!
-[22:23:26] [main/ERROR]: No data fixer registered for 
-[22:23:26] [main/INFO]: Registering Item Groups for stackedblocks
-[22:23:26] [main/INFO]: Registering mod blocks for stackedblocks
-[22:23:26] [main/INFO]: Registering Item Groups for stackedblocksfarmersdelight
-[22:23:26] [main/INFO]: Registering mod blocks for stackedblocksfarmersdelight
-[22:23:26] [main/INFO]: Registering furniture fuels for storagedelight
-[22:23:26] [main/INFO]: [Surveyor] is not a map mod
-[22:23:26] [main/INFO]: Deserializing ItTakesPillageConfig from 'config/takesapillage.json'
-[22:23:26] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[22:23:26] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[22:23:26] [main/INFO]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
-[22:23:26] [main/INFO]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
-[22:23:26] [main/INFO]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
-[22:23:26] [main/INFO]: [STDOUT]: TxniLib onInitialize!
-[22:23:26] [main/INFO]: Initializing Undead Nights Mod
-[22:23:26] [main/INFO]: Loading undeadnights horde mobs config
-[22:23:26] [main/INFO]: Default horde mob undeadnights:horde_zombie was read from config.
-[22:23:26] [main/INFO]: Horde mob undeadnights:elite_zombie with chance 3% was read from config.
-[22:23:26] [main/INFO]: Horde mob undeadnights:demolition_zombie with chance 6% was read from config.
-[22:23:26] [main/ERROR]: No data fixer registered for undeadnights:horde_zombie
-[22:23:26] [main/ERROR]: No data fixer registered for undeadnights:demolition_zombie
-[22:23:26] [main/ERROR]: No data fixer registered for undeadnights:elite_zombie
-[22:23:26] [main/ERROR]: No data fixer registered for undeadnights:tnt_projectile
-[22:23:26] [main/INFO]: Registering Mod Items for undeadnights
-[22:23:26] [main/INFO]: Registering Sounds for undeadnights
-[22:23:26] [main/INFO]: [voicechat] Compatibility version 18
-[22:23:26] [main/INFO]: [voicechat] Loading plugins
-[22:23:26] [main/INFO]: [voicechat] Loaded 2 plugin(s)
-[22:23:26] [main/INFO]: [voicechat] Initializing plugins
-[22:23:26] [main/INFO]: [voicechat] Initialized 2 plugin(s)
-[22:23:26] [main/INFO]: [voicechat] Registering events for 'audioplayer'
-[22:23:26] [main/INFO]: [voicechat] Registering events for 'vcinteraction'
-[22:23:26] [main/INFO]: Config 'weaponmaster_ydm_config' is missing, generating default one...
-[22:23:26] [main/INFO]: [STDOUT]: Initialize WeaponMaster
-[22:23:26] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[22:23:26] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[22:23:26] [main/ERROR]: No data fixer registered for zombieawareness:scent
-[22:23:27] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:23:27] [main/INFO]: Found new data pack accessories, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack animal_feeding_trough, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack another_furniture, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack archers, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack arsenal, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack atistructures, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack audioplayer, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack balm, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack bettercombat, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack betterdungeons, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack bettermineshafts, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack bettervillage, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack biomeswevegone, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack bookshelf, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack bosses_of_mass_destruction, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack carryon, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack collective, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack combat_roll, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack comforts, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack cratedelight, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack creeperoverhaul, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack crittersandcompanions, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack dungeon_difficulty, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack dungeons_arise, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack dungeons_arise_seven_seas, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack fabric, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack farmersdelight, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack horseshoes, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack immersivelanterns, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack incendium, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack jewelry, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack libraryferret, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack lolmblv, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack lolmcbv, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack lolmcgt, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack lolmcmv, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack lolmcmv-aft, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack lolmct, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack lolmft, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack lolmlmv, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack lolmlv, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack lolmlv:mlecternv-quad-compat, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack moredelight, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack mr_dungeons_andtaverns, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack mstv-base, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack mstv-base:mstv-leaves-loot-fix, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack mstv-masv, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack mstv-mtoolv, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack mstv-mweaponv, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack musketmod, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack mynethersdelight, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack oceansdelight, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack ohthetreesyoullgrow, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack paladins, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack pineapple_delight, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack plushie_buddies, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack porting_lib_gametest, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack porting_lib_item_abilities, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack quad, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack quad-lolmbdv, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack quad-lolmbhv, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack quad-lolmcrv, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack quad-lolmjnv, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack quad-lolmsmv, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack relics_rpgs, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack revive, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack ribbits, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack rightclickharvest, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack rogues, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack rottencreatures, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack runes, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack rusticdelight, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack seeddelight, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack sophisticatedbackpacks, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack sophisticatedcore, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack spell_engine, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack spell_power, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack stackedblocks, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack stackedblocksfarmersdelight, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack storagedelight, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack takesapillage, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack tclayer, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack terrablender, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack trailandtales_delight, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack undeadnights, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack vanilla_claws, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack vcinteraction, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack waystones, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack wizards, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack yigd, loading it automatically
-[22:23:27] [main/INFO]: Found new data pack yungsapi, loading it automatically
-[22:23:28] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[22:23:28] [main/INFO]: No existing world data, creating new world
-[22:23:29] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/trailandtales_delight:blocks/lantern_fruits - Failed to parse either. First: Not a string: false; Second: Not a JSON object: false missed input: {"ropelogged":false}
-[22:23:29] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/trailandtales_delight:blocks/pottery_cooking_pot - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: farmersdelight:copy_meal; Second: Not a json array: {"function":"farmersdelight:copy_meal"}
-[22:23:29] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/pineapple_delight:blocks/pineapple_wild_crop}.pools[0].entries[0]: Unreachable entry!
-[22:23:30] [Worker-Main-1/WARN]: Adding Entries to [TagKey[minecraft:item / tclayer:all_trinket_items]]: 
-     [#spell_engine:spell_books (from spell_engine), spell_engine:scroll (from spell_engine), spell_engine:scroll (from spell_engine), crittersandcompanions:pearl_necklace_1 (from crittersandcompanions), crittersandcompanions:pearl_necklace_2 (from crittersandcompanions), crittersandcompanions:pearl_necklace_3 (from crittersandcompanions), #jewelry:necklaces (from jewelry), #archers:quivers (from archers), #runes:pouches (from runes), sophisticatedbackpacks:backpack (from sophisticatedbackpacks), sophisticatedbackpacks:copper_backpack (from sophisticatedbackpacks), sophisticatedbackpacks:iron_backpack (from sophisticatedbackpacks), sophisticatedbackpacks:gold_backpack (from sophisticatedbackpacks), sophisticatedbackpacks:diamond_backpack (from sophisticatedbackpacks), sophisticatedbackpacks:netherite_backpack (from sophisticatedbackpacks), #archers:quivers (from archers), #runes:pouches (from runes), #jewelry:rings (from jewelry), #jewelry:rings (from jewelry), #relics_rpgs:all (from relics_rpgs), #relics_rpgs:all (from relics_rpgs)]
-[22:23:30] [Worker-Main-1/WARN]: Adding Entries from [trinkets:charm/trinket] to [accessories:trinket_group_charm-trinket]: 
+[03:02:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/paraside/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[03:02:07] [main/INFO]: Compatibility level set to JAVA_17
+[03:02:07] [main/INFO]: Compatibility level set to JAVA_21
+[03:02:07] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:02:07] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:02:07] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[03:02:07] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
+[03:02:07] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[03:02:07] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
+[03:02:07] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[03:02:07] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[03:02:07] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[03:02:07] [main/INFO]: Loaded configuration file for Lithium: 149 options available, 0 override(s) found
+[03:02:07] [main/INFO]: Loaded configuration file for ModernFix 5.24.1+mc1.21.1: 64 options available, 0 override(s) found
+[03:02:07] [main/INFO]: Applying Nashorn fix
+[03:02:07] [main/INFO]: mToolV loaded
+[03:02:07] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:02:07] [main/WARN]: Reference map 'prickle.refmap.json' for prickle.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:02:07] [main/WARN]: Reference map 'prickle.refmap.json' for prickle.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:02:07] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:02:07] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:02:07] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:02:07] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:02:08] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[03:02:08] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_item_abilities.mixins.json:FishingHookRendererMixin from mod porting_lib_item_abilities
+[03:02:09] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[03:02:09] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[03:02:09] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[03:02:09] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[03:02:09] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[03:02:09] [main/WARN]: Error loading class: net/minecraft/class_638 (java.lang.ClassNotFoundException: net/minecraft/class_638)
+[03:02:09] [main/WARN]: @Mixin target net.minecraft.class_638 was not found porting_lib_level_events.mixins.json:client.ClientLevelMixin from mod porting_lib_level_events
+[03:02:09] [main/WARN]: Error loading class: net/minecraft/class_1132 (java.lang.ClassNotFoundException: net/minecraft/class_1132)
+[03:02:09] [main/WARN]: @Mixin target net.minecraft.class_1132 was not found zombieawareness.mixins_fabric.json:MixinIntegratedServer from mod zombieawareness
+[03:02:09] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0-rc.2).
+[03:02:12] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin from mod crittersandcompanions::handler$zpm000$crittersandcompanions$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[03:02:14] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[03:02:14] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[03:02:15] [main/WARN]: Method overwrite conflict for scheduleRandomTick in ohthetreesyoullgrow.mixins.json:chunk.MixinChunkAccess from mod ohthetreesyoullgrow, previously written by corgitaco.corgilib.mixin.chunk.MixinChunkAccess. Skipping method.
+[03:02:15] [main/WARN]: Method overwrite conflict for getScheduledRandomTicks in ohthetreesyoullgrow.mixins.json:chunk.MixinChunkAccess from mod ohthetreesyoullgrow, previously written by corgitaco.corgilib.mixin.chunk.MixinChunkAccess. Skipping method.
+[03:02:17] [main/INFO]: Vanilla bootstrap took 6883 milliseconds
+[03:02:18] [main/INFO]: Registered Trinkets Reloaded Listeners
+[03:02:18] [main/INFO]: [Animal Feeding Trough] Load Complete! Enjoy :D
+[03:02:18] [main/INFO]: Reflections took 42 ms to scan 1 urls, producing 1 keys and 3 values
+[03:02:18] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[03:02:19] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[03:02:19] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[03:02:19] [main/INFO]: Initializing network...
+[03:02:19] [main/INFO]: Initialized network!
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone data components
+[03:02:19] [main/ERROR]: No data fixer registered for man_o_war
+[03:02:19] [main/ERROR]: No data fixer registered for pumpkin_warden
+[03:02:19] [main/ERROR]: No data fixer registered for oddion
+[03:02:19] [main/ERROR]: No data fixer registered for wreath
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone items
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Blocks
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Wood
+[03:02:19] [main/ERROR]: No data fixer registered for biomeswevegone:sign
+[03:02:19] [main/ERROR]: No data fixer registered for biomeswevegone:hanging_sign
+[03:02:19] [main/ERROR]: No data fixer registered for biomeswevegone:pumpkin_burrow
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Block Entities
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Entities
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Creative Tabs
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Sounds
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Block Predicate
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone State Providers
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Tree Decorators
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Custom Features
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Structure Pieces
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Custom Structure Types
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Configured Features
+[03:02:19] [main/INFO]: Creating and Registering Overworld Vegetation Configured Features
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Tree Configured Features
+[03:02:19] [main/INFO]: Creating and Registering Vanilla Configured Features
+[03:02:19] [main/INFO]: Registering Oh The Biomes You'll Go Overworld Configured Features
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Placed Features
+[03:02:19] [main/INFO]: Creating and Registering Overworld Tree Placed Features
+[03:02:19] [main/INFO]: Creating and Registering Overworld Vegetation Placed Features
+[03:02:19] [main/INFO]: Creating and Registering Vanilla Placed Features
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Custom Surface Rules
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Template Pools
+[03:02:19] [main/INFO]: Registering Oh The Biome's We've Gone Village Template Pools
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Poi Types
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Villager Professions
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Custom Structure Processors
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone villager types
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Schedules
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Memory Module Types
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Sensor Types
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Map Decoration Types
+[03:02:19] [main/INFO]: Registering Oh The Biomes We've Gone Entity SubPredicates
+[03:02:19] [main/INFO]: Creating and Registering BWG Biome Modifiers for Vanilla Biomes
+[03:02:21] [main/INFO]: Customized Bundles!
+[03:02:21] [main/INFO]: Loading Collective version 8.3.
+[03:02:21] [main/INFO]: fabric loader environment detected
+[03:02:21] [main/INFO]: Registering Item Groups for cratedelight
+[03:02:21] [main/INFO]: Registering ModBLocks for cratedelight
+[03:02:21] [main/ERROR]: No data fixer registered for jungle_creeper
+[03:02:21] [main/ERROR]: No data fixer registered for bamboo_creeper
+[03:02:21] [main/ERROR]: No data fixer registered for desert_creeper
+[03:02:21] [main/ERROR]: No data fixer registered for badlands_creeper
+[03:02:21] [main/ERROR]: No data fixer registered for hills_creeper
+[03:02:21] [main/ERROR]: No data fixer registered for savannah_creeper
+[03:02:21] [main/ERROR]: No data fixer registered for mushroom_creeper
+[03:02:21] [main/ERROR]: No data fixer registered for swamp_creeper
+[03:02:21] [main/ERROR]: No data fixer registered for dripstone_creeper
+[03:02:21] [main/ERROR]: No data fixer registered for cave_creeper
+[03:02:21] [main/ERROR]: No data fixer registered for dark_oak_creeper
+[03:02:21] [main/ERROR]: No data fixer registered for spruce_creeper
+[03:02:21] [main/ERROR]: No data fixer registered for beach_creeper
+[03:02:21] [main/ERROR]: No data fixer registered for snowy_creeper
+[03:02:21] [main/ERROR]: No data fixer registered for ocean_creeper
+[03:02:21] [main/ERROR]: No data fixer registered for birch_creeper
+[03:02:21] [main/ERROR]: No data fixer registered for dragonfly
+[03:02:21] [main/ERROR]: No data fixer registered for dumbo_octopus
+[03:02:21] [main/ERROR]: No data fixer registered for ferret
+[03:02:21] [main/ERROR]: No data fixer registered for jumping_spider
+[03:02:21] [main/ERROR]: No data fixer registered for koi_fish
+[03:02:21] [main/ERROR]: No data fixer registered for leaf_insect
+[03:02:21] [main/ERROR]: No data fixer registered for otter
+[03:02:21] [main/ERROR]: No data fixer registered for red_panda
+[03:02:21] [main/ERROR]: No data fixer registered for sea_bunny
+[03:02:21] [main/ERROR]: No data fixer registered for shima_enaga
+[03:02:21] [main/INFO]: YAaargh!
+[03:02:21] [main/INFO]: Loaded config farmersdelight-common.json
+[03:02:22] [main/INFO]: Initializing JamLib on Fabric
+[03:02:22] [main/INFO]: Initialize mod Library Ferret
+[03:02:22] [main/INFO]: Initialized mod Library Ferret
+[03:02:22] [main/INFO]: MCMV-AFT:"AFT loaded."
+[03:02:22] [main/INFO]: Definitely not up to no good
+[03:02:22] [main/INFO]: Configuration has been loaded
+[03:02:22] [main/ERROR]: No data fixer registered for bullet
+[03:02:22] [main/INFO]: Registering Items for oceansdelight
+[03:02:22] [main/INFO]: Registering Blocks for oceansdelight
+[03:02:22] [main/INFO]: Registering tabs for oceansdelight
+[03:02:22] [main/INFO]: Cheese Cheese Creeper, the newest release from MC Basic
+[03:02:23] [main/INFO]: Registering Item Groups for plushie_buddies
+[03:02:23] [main/INFO]: Registering Mod Items for plushie_buddies
+[03:02:23] [main/INFO]: Registering ModBlocks for plushie_buddies
+[03:02:23] [main/INFO]: Registering Sounds for plushie_buddies
+[03:02:23] [main/INFO]: [Quad] Initialising the Quad mod power! >:P
+[03:02:23] [main/INFO]: [Quad] loaded default fuel values
+[03:02:23] [main/INFO]: [Quad] loaded quad fuel tags
+[03:02:23] [main/INFO]: MCRV:"MCT loaded."
+[03:02:23] [main/INFO]: Reflections took 14 ms to scan 1 urls, producing 6 keys and 40 values
+[03:02:23] [main/INFO]: Reflections took 10 ms to scan 1 urls, producing 6 keys and 40 values
+[03:02:23] [main/INFO]: Registering Ribbit instruments...
+[03:02:23] [main/INFO]: Registering Ribbit umbrella types...
+[03:02:23] [main/INFO]: Registering Ribbit professions...
+[03:02:23] [main/INFO]: Updated config file at /workspaces/paraside/servidor_minecraft/config/rightclickharvest.json5
+[03:02:23] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[03:02:23] [main/ERROR]: No data fixer registered for burned
+[03:02:23] [main/ERROR]: No data fixer registered for frostbitten
+[03:02:23] [main/ERROR]: No data fixer registered for swampy
+[03:02:23] [main/ERROR]: No data fixer registered for undead_miner
+[03:02:23] [main/ERROR]: No data fixer registered for mummy
+[03:02:23] [main/ERROR]: No data fixer registered for glacial_hunter
+[03:02:23] [main/ERROR]: No data fixer registered for hunter_wolf
+[03:02:23] [main/ERROR]: No data fixer registered for scarab
+[03:02:23] [main/ERROR]: No data fixer registered for dead_beard
+[03:02:23] [main/ERROR]: No data fixer registered for zombie_lackey
+[03:02:23] [main/ERROR]: No data fixer registered for skeleton_lackey
+[03:02:23] [main/ERROR]: No data fixer registered for immortal
+[03:02:23] [main/ERROR]: No data fixer registered for zap
+[03:02:23] [main/ERROR]: No data fixer registered for primed_tnt_barrel
+[03:02:23] [main/INFO]: Registering items for rusticdelight
+[03:02:23] [main/INFO]: Registering blocks for rusticdelight
+[03:02:23] [main/INFO]: Registering potions for rusticdelight
+[03:02:23] [main/INFO]: Registering biome modifications for rusticdelight
+[03:02:23] [main/INFO]: Registering item group for rusticdelight
+[03:02:23] [main/INFO]: Shield API initialized!
+[03:02:23] [main/ERROR]: No data fixer registered for 
+[03:02:24] [main/INFO]: Registering Item Groups for stackedblocks
+[03:02:24] [main/INFO]: Registering mod blocks for stackedblocks
+[03:02:24] [main/INFO]: Registering Item Groups for stackedblocksfarmersdelight
+[03:02:24] [main/INFO]: Registering mod blocks for stackedblocksfarmersdelight
+[03:02:24] [main/INFO]: Registering furniture fuels for storagedelight
+[03:02:24] [main/INFO]: [Surveyor] is not a map mod
+[03:02:24] [main/INFO]: Deserializing ItTakesPillageConfig from 'config/takesapillage.json'
+[03:02:24] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[03:02:24] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[03:02:24] [main/INFO]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
+[03:02:24] [main/INFO]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
+[03:02:24] [main/INFO]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
+[03:02:24] [main/INFO]: [STDOUT]: TxniLib onInitialize!
+[03:02:24] [main/INFO]: Initializing Undead Nights Mod
+[03:02:24] [main/INFO]: Loading undeadnights horde mobs config
+[03:02:24] [main/INFO]: Default horde mob undeadnights:horde_zombie was read from config.
+[03:02:24] [main/INFO]: Horde mob undeadnights:elite_zombie with chance 3% was read from config.
+[03:02:24] [main/INFO]: Horde mob undeadnights:demolition_zombie with chance 6% was read from config.
+[03:02:24] [main/ERROR]: No data fixer registered for undeadnights:horde_zombie
+[03:02:24] [main/ERROR]: No data fixer registered for undeadnights:demolition_zombie
+[03:02:24] [main/ERROR]: No data fixer registered for undeadnights:elite_zombie
+[03:02:24] [main/ERROR]: No data fixer registered for undeadnights:tnt_projectile
+[03:02:24] [main/INFO]: Registering Mod Items for undeadnights
+[03:02:24] [main/INFO]: Registering Sounds for undeadnights
+[03:02:24] [main/INFO]: [voicechat] Compatibility version 18
+[03:02:24] [main/INFO]: [voicechat] Loading plugins
+[03:02:24] [main/INFO]: [voicechat] Loaded 2 plugin(s)
+[03:02:24] [main/INFO]: [voicechat] Initializing plugins
+[03:02:24] [main/INFO]: [voicechat] Initialized 2 plugin(s)
+[03:02:24] [main/INFO]: [voicechat] Registering events for 'audioplayer'
+[03:02:24] [main/INFO]: [voicechat] Registering events for 'vcinteraction'
+[03:02:24] [main/INFO]: [STDOUT]: Initialize WeaponMaster
+[03:02:24] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[03:02:24] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[03:02:24] [main/ERROR]: No data fixer registered for zombieawareness:scent
+[03:02:25] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:02:26] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[03:02:27] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/trailandtales_delight:blocks/lantern_fruits - Failed to parse either. First: Not a string: false; Second: Not a JSON object: false missed input: {"ropelogged":false}
+[03:02:27] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/trailandtales_delight:blocks/pottery_cooking_pot - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: farmersdelight:copy_meal; Second: Not a json array: {"function":"farmersdelight:copy_meal"}
+[03:02:27] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/pineapple_delight:blocks/pineapple_wild_crop}.pools[0].entries[0]: Unreachable entry!
+[03:02:28] [Worker-Main-1/WARN]: Adding Entries to [TagKey[minecraft:item / tclayer:all_trinket_items]]: 
+     [#relics_rpgs:all (from relics_rpgs), #relics_rpgs:all (from relics_rpgs), #spell_engine:spell_books (from spell_engine), spell_engine:scroll (from spell_engine), spell_engine:scroll (from spell_engine), crittersandcompanions:pearl_necklace_1 (from crittersandcompanions), crittersandcompanions:pearl_necklace_2 (from crittersandcompanions), crittersandcompanions:pearl_necklace_3 (from crittersandcompanions), #jewelry:necklaces (from jewelry), #archers:quivers (from archers), #runes:pouches (from runes), sophisticatedbackpacks:backpack (from sophisticatedbackpacks), sophisticatedbackpacks:copper_backpack (from sophisticatedbackpacks), sophisticatedbackpacks:iron_backpack (from sophisticatedbackpacks), sophisticatedbackpacks:gold_backpack (from sophisticatedbackpacks), sophisticatedbackpacks:diamond_backpack (from sophisticatedbackpacks), sophisticatedbackpacks:netherite_backpack (from sophisticatedbackpacks), #archers:quivers (from archers), #runes:pouches (from runes), #jewelry:rings (from jewelry), #jewelry:rings (from jewelry)]
+[03:02:28] [Worker-Main-1/WARN]: Adding Entries from [trinkets:charm/trinket] to [accessories:trinket_group_charm-trinket]: 
      [#relics_rpgs:all (from relics_rpgs)]
-[22:23:30] [Worker-Main-1/WARN]: Adding Entries from [accessories:belt] to [trinkets:legs/belt]: 
+[03:02:28] [Worker-Main-1/WARN]: Adding Entries from [accessories:belt] to [trinkets:legs/belt]: 
      [minecraft:lantern (from immersivelanterns), minecraft:soul_lantern (from immersivelanterns)]
-[22:23:30] [Worker-Main-1/WARN]: Adding Entries from [trinkets:offhand/ring] to [accessories:ring]: 
+[03:02:28] [Worker-Main-1/WARN]: Adding Entries from [trinkets:offhand/ring] to [accessories:ring]: 
      [#jewelry:rings (from jewelry)]
-[22:23:30] [Worker-Main-1/WARN]: Adding Entries from [trinkets:spell/quiver] to [accessories:trinket_group_spell-quiver]: 
+[03:02:28] [Worker-Main-1/WARN]: Adding Entries from [trinkets:spell/quiver] to [accessories:trinket_group_spell-quiver]: 
      [#archers:quivers (from archers), #runes:pouches (from runes)]
-[22:23:30] [Worker-Main-1/WARN]: Adding Entries from [trinkets:spell/scroll] to [accessories:trinket_group_spell-scroll]: 
+[03:02:28] [Worker-Main-1/WARN]: Adding Entries from [trinkets:spell/scroll] to [accessories:trinket_group_spell-scroll]: 
      [spell_engine:scroll (from spell_engine)]
-[22:23:30] [Worker-Main-1/WARN]: Adding Entries from [trinkets:spell/trinket] to [accessories:trinket_group_spell-trinket]: 
+[03:02:28] [Worker-Main-1/WARN]: Adding Entries from [trinkets:spell/trinket] to [accessories:trinket_group_spell-trinket]: 
      [#relics_rpgs:all (from relics_rpgs)]
-[22:23:30] [Worker-Main-1/WARN]: Adding Entries from [trinkets:spell/book] to [accessories:trinket_group_spell-book]: 
+[03:02:28] [Worker-Main-1/WARN]: Adding Entries from [trinkets:spell/book] to [accessories:trinket_group_spell-book]: 
      [#spell_engine:spell_books (from spell_engine), spell_engine:scroll (from spell_engine)]
-[22:23:30] [Worker-Main-1/WARN]: Adding Entries from [trinkets:misc/quiver] to [accessories:trinket_group_misc-quiver]: 
+[03:02:28] [Worker-Main-1/WARN]: Adding Entries from [trinkets:misc/quiver] to [accessories:trinket_group_misc-quiver]: 
      [#archers:quivers (from archers), #runes:pouches (from runes)]
-[22:23:30] [Worker-Main-1/WARN]: Adding Entries from [trinkets:chest/back] to [accessories:back]: 
+[03:02:28] [Worker-Main-1/WARN]: Adding Entries from [trinkets:chest/back] to [accessories:back]: 
      [sophisticatedbackpacks:backpack (from sophisticatedbackpacks), sophisticatedbackpacks:copper_backpack (from sophisticatedbackpacks), sophisticatedbackpacks:iron_backpack (from sophisticatedbackpacks), sophisticatedbackpacks:gold_backpack (from sophisticatedbackpacks), sophisticatedbackpacks:diamond_backpack (from sophisticatedbackpacks), sophisticatedbackpacks:netherite_backpack (from sophisticatedbackpacks)]
-[22:23:30] [Worker-Main-1/WARN]: Adding Entries from [trinkets:chest/necklace] to [accessories:necklace]: 
+[03:02:28] [Worker-Main-1/WARN]: Adding Entries from [trinkets:chest/necklace] to [accessories:necklace]: 
      [crittersandcompanions:pearl_necklace_1 (from crittersandcompanions), crittersandcompanions:pearl_necklace_2 (from crittersandcompanions), crittersandcompanions:pearl_necklace_3 (from crittersandcompanions), #jewelry:necklaces (from jewelry)]
-[22:23:30] [main/ERROR]: Parsing error loading recipe trailandtales_delight:cutting/cherry_petal_from_cherry_sapling
+[03:02:28] [main/ERROR]: Parsing error loading recipe trailandtales_delight:cutting/cherry_petal_from_cherry_sapling
 com.google.gson.JsonParseException: No key item in MapLike[{"count":4,"id":"trailandtales_delight:cherry_petal"}]
-	at knot/com.mojang.serialization.DataResult$Error.md72ed30$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.mda21248$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -640,9 +545,9 @@ com.google.gson.JsonParseException: No key item in MapLike[{"count":4,"id":"trai
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[22:23:30] [main/ERROR]: Parsing error loading recipe winterly:cryomarble_claws
+[03:02:29] [main/ERROR]: Parsing error loading recipe winterly:cryomarble_claws
 com.google.gson.JsonParseException: Map entry 'c' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"winterly:cryomarble"}]; Second: Failed to parse either. First: Not a json array: {"item":"winterly:cryomarble"}; Second: No key tag in MapLike[{"item":"winterly:cryomarble"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: winterly:cryomarble
-	at knot/com.mojang.serialization.DataResult$Error.md72ed30$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.mda21248$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -658,360 +563,314 @@ com.google.gson.JsonParseException: Map entry 'c' : Failed to parse either. Firs
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[22:23:30] [main/INFO]: Loaded 5195 recipes
-[22:23:30] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_illager_corsair_or_illager_galley: No key id in MapLike[{"item":"minecraft:tropical_fish"}]
-[22:23:30] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_infested_temple_map: No key id in MapLike[{"item":"minecraft:filled_map"}]
-[22:23:30] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_greenwood_pub: No key id in MapLike[{"item":"minecraft:barrel"}]
-[22:23:30] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_thornborn_towers: No key id in MapLike[{"item":"minecraft:rose_bush"}]
-[22:23:30] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_keep_kayra: No key id in MapLike[{"item":"minecraft:lily_pad"}]
-[22:23:31] [main/ERROR]: Parsing error loading custom advancement trailandtales_delight:tat_delight: No key id in MapLike[{"item":"trailandtales_delight:pottery_cooking_pot"}]
-[22:23:31] [main/ERROR]: Couldn't load advancements: [minecraft:give_quest_trader_trade, dungeons_arise:find_plague_asylum, minecraft:wander_add_map, dungeons_arise:find_fishing_hut]
-[22:23:31] [main/INFO]: Loaded 4717 advancements
-[22:23:31] [main/INFO]: Configuration has been loaded
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_sandy_shrub - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:add_loot_piglin_bartering - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_cake - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:pastry_slicing
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_strider_egg - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:add_loot_bastion_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_abandoned_mineshaft - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:slicing_magma_cake - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: mynethersdelight:especial_drop
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_ham_from_hoglin - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_grass - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_shulker_shell - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_pumpkin - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:replace_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:cut_elder_guardian - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:cut_tentacles_squid - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_end_city_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_chocolate_pie - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:pastry_slicing
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:add_loot_bastion_hoglin_stable - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_sweet_berry_cheesecake - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:pastry_slicing
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_onion_from_ghast - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_shipwreck_supply - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_simple_dungeon - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_mature_rice - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_extra_ghasta1 - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_rabbit_hide - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_extra_ghasta0 - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_extra_strider_egg2 - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_extra_strider_egg1 - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_strider_slice - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_extra_strider_egg0 - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_smoked_ham_from_pig - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_ruined_portal - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_bastion_hoglin_stable - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_savanna_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_smoked_ham_from_hoglin - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_apple_pie - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:pastry_slicing
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:remplace_hoglin_pork_loin - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: mynethersdelight:remplace_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_string - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_ham_from_pig - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_tall_grass - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_candle_cake - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:guardian_drop - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:cut_tentacles_glow_squid - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_mature_wheat - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_leather - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_feather - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_snowy_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:remplace_hoglin_cooked_pork_loin - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: mynethersdelight:remplace_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_desert_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_bastion_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_extra_strider_slice0 - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_pillager_outpost - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_plains_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_taiga_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_butcher - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_extra_strider_slice1 - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_ghasta - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_hoglin_hide - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
-[22:23:31] [main/INFO]: Reloading grave shape (server)
-[22:23:31] [main/INFO]: Grave model and shape reload successful (server)
-[22:23:31] [main/INFO]: Reloading YIGD graveyard data (server)
-[22:23:31] [main/INFO]: Graveyard data successfully reloaded (server)
-[22:23:31] [main/INFO]: Reloading YIGD grave area overrides (server)
-[22:23:31] [main/INFO]: Grave area overrides successfully reloaded (server)
-[22:23:31] [main/INFO]: [Quad] loaded default fuel values
-[22:23:31] [main/INFO]: [Quad] loaded quad fuel tags
-[22:23:31] [main/WARN]: Initial datapack load took 4.019 s
-[22:23:31] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[22:23:31] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[22:23:32] [main/INFO]: Applied 1169 biome modifications to 128 of 128 new biomes in 247.2 ms
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:acolyte_wand
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aeternium_claymore
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aeternium_dagger
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aeternium_double_axe
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aeternium_glaive
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aeternium_great_hammer
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aeternium_sickle
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aeternium_spear
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_claymore
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aether_dagger
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aether_double_axe
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aether_glaive
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_great_hammer
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aether_heavy_crossbow
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_holy_staff
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aether_longbow
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_mace
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aether_sickle
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aether_spear
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:aether_wizard_staff
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:anchor
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:axe
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:battlestaff
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:bow_two_handed_heavy
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:bow_two_handed_light
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:claw
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:claymore
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: archers:composite_longbow
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:coral_blade
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:crossbow_two_handed_heavy
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:crossbow_two_handed_light
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: archers:crystal_longbow
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:cutlass
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:dagger
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_claymore
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:diamond_dagger
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:diamond_double_axe
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:diamond_glaive
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_great_hammer
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_holy_staff
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_holy_wand
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_mace
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:diamond_sickle
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: archers:diamond_spear
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:diamond_sword
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:double_axe
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:fist
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:flint_dagger
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: archers:flint_spear
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:glaive
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:golden_claymore
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:golden_dagger
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:golden_double_axe
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:golden_glaive
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:golden_great_hammer
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:golden_mace
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:golden_sickle
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: archers:golden_spear
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:golden_sword
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:halberd
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:hammer
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:heavy_axe
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: archers:heavy_crossbow
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:holy_staff
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:holy_wand
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:iron_claymore
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:iron_dagger
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:iron_double_axe
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:iron_glaive
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:iron_great_hammer
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:iron_mace
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:iron_sickle
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: archers:iron_spear
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:iron_sword
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:katana
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:lance
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:mace
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:mace
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_claymore
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:netherite_dagger
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:netherite_double_axe
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:netherite_glaive
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_great_hammer
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: archers:netherite_heavy_crossbow
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_holy_staff
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_holy_wand
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: archers:netherite_longbow
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_mace
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:netherite_sickle
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: archers:netherite_spear
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:netherite_sword
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:pickaxe
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:rapier
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: archers:royal_longbow
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:ruby_claymore
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:ruby_dagger
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:ruby_double_axe
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:ruby_glaive
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: archers:ruby_heavy_crossbow
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:ruby_holy_staff
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:ruby_sickle
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: archers:ruby_spear
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:scythe
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:sickle
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: farmersdelight:skillet
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:soul_knife
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:spear
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:staff
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_arcane
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_crystal_arcane
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_fire
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_frost
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_netherite_arcane
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_netherite_fire
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_netherite_frost
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_ruby_fire
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_smaragdant_frost
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_wizard
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:stone_claymore
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:stone_double_axe
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:stone_great_hammer
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:stone_mace
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:stone_sword
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:sword
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:trident
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:trident
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:twin_blade
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_claymore_1
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_claymore_2
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_claymore_sw
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_dagger_1
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_dagger_2
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_dagger_sw
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_double_axe_1
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_double_axe_2
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_double_axe_sw
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_glaive_1
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_glaive_2
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_glaive_sw
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_hammer_1
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_hammer_2
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_hammer_sw
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_heavy_crossbow_1
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_heavy_crossbow_2
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_heavy_crossbow_sw
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_longbow_1
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_longbow_2
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_longbow_sw
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_longsword_sw
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_mace_1
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_mace_2
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_mace_sw
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_sickle_1
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_sickle_2
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_sickle_sw
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_spear_1
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_spear_2
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_spear_sw
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_damage_1
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_damage_2
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_damage_3
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_damage_4
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_damage_5
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_damage_6
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_damage_sw
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_heal_1
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_heal_2
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_heal_sw
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:vanilla_mace
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:wand
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_arcane
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_fire
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_frost
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_netherite_arcane
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_netherite_fire
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_netherite_frost
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_novice
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:wooden_great_hammer
-[22:23:32] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:wooden_sword
-[22:23:32] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 10645 bytes (in 2 string chunks with the size of 10000)
-[22:23:32] [Server thread/INFO]: [Quad] cached original fuel map with count of: 1168
-[22:23:32] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): ??? bytes (in 3 string chunks with the size of 10000)
-[22:23:32] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[22:23:32] [Server thread/INFO]: Loading properties
-[22:23:32] [Server thread/INFO]: Default game type: SURVIVAL
-[22:23:32] [Server thread/INFO]: Generating keypair
-[22:23:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:23:32] [Server thread/INFO]: Using epoll channel type
-[22:23:32] [Server thread/INFO]: Preparing level "Testeo12"
-[22:23:32] [Server thread/INFO]: [Surveyor] Loading data for minecraft:overworld
-[22:23:32] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:overworld
-[22:23:33] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
-[22:23:43] [Server thread/INFO]: [Surveyor] Loading data for minecraft:the_nether
-[22:23:43] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:the_nether
-[22:23:43] [Server thread/INFO]: [Surveyor] Loading data for minecraft:the_end
-[22:23:43] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:the_end
-[22:23:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:23:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[22:23:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[22:23:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[22:23:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[22:23:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[22:23:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[22:23:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[22:23:47] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[22:23:47] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[22:23:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[22:23:48] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[22:23:48] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[22:23:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[22:23:49] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[22:23:50] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[22:23:50] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[22:23:51] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[22:23:51] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[22:23:52] [Worker-Main-3/INFO]: Preparing spawn area: 20%
-[22:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[22:23:53] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[22:23:53] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[22:23:54] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[22:23:54] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[22:23:55] [Server thread/INFO]: Time elapsed: 11774 ms
-[22:23:55] [Server thread/INFO]: Done (22.668s)! For help, type "help"
-[22:23:55] [Server thread/WARN]: Dedicated server took 55.457 seconds to load
-[22:23:55] [Server thread/INFO]: Loading audio file volume overrides...
-[22:23:55] [Server thread/INFO]: Loading audio file name mappings...
-[22:23:55] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'media-rows.gl.at.ply.gg:4489'
-[22:23:55] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 4489
-[22:23:56] [Server thread/INFO]: Changing maximum value for minecraft:generic.armor from 30.0 to 1000000.0.
-[22:23:56] [Server thread/INFO]: Changing maximum value for minecraft:generic.armor_toughness from 20.0 to 1000000.0.
-[22:23:56] [Server thread/INFO]: Changing maximum value for minecraft:generic.attack_damage from 2048.0 to 1000000.0.
-[22:23:56] [Server thread/INFO]: Changing maximum value for minecraft:generic.attack_knockback from 5.0 to 1000000.0.
-[22:23:56] [Server thread/INFO]: Changing maximum value for minecraft:generic.max_health from 1024.0 to 1000000.0.
-[22:24:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9904ms or 198 ticks behind
-[22:24:07] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
-[22:24:09] [Worker-Main-3/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
-[22:24:09] [Worker-Main-3/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
-[22:24:09] [Worker-Main-3/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
-[22:24:09] [Worker-Main-3/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
-[22:24:09] [Worker-Main-3/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
-[22:24:09] [Worker-Main-3/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
-[22:24:09] [Worker-Main-3/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
-[22:24:09] [Worker-Main-3/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
-[22:25:33] [User Authenticator #1/INFO]: UUID of player ApioOwO is 01780b5e-4207-4fa3-8c3d-c24c6e95e2f9
-[22:25:36] [Server thread/INFO]: ApioOwO[/127.237.250.73:40257] logged in with entity id 16 at (-551.5, 64.0, -216.5)
-[22:25:36] [Server thread/INFO]: Sending server config values to client
-[22:25:36] [Server thread/INFO]: Using Fabric Permissions API
-[22:25:36] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
-[22:25:36] [Server thread/INFO]: ApioOwO joined the game
-[22:25:37] [Server thread/INFO]: [voicechat] Received secret request of ApioOwO (18)
-[22:25:37] [Server thread/INFO]: [voicechat] Sent secret to ApioOwO
-[22:25:38] [Server thread/INFO]: Priority overwritten for player ApioOwO. Claiming: GRAVE / Robbing: INVENTORY
-[22:25:38] [Server thread/INFO]: Receiving client config
-[22:25:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 01780b5e-4207-4fa3-8c3d-c24c6e95e2f9
-[22:25:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 01780b5e-4207-4fa3-8c3d-c24c6e95e2f9
-[22:25:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ApioOwO (01780b5e-4207-4fa3-8c3d-c24c6e95e2f9) successfully connected to voice chat
-[22:27:02] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/830, l='ServerLevel[Testeo12]', x=-875.96, y=-4.00, z=50.32] as it would cause deadlock
-[22:27:02] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/838, l='ServerLevel[Testeo12]', x=-869.30, y=-8.90, z=59.12] as it would cause deadlock
-[22:29:34] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/2002, l='ServerLevel[Testeo12]', x=-875.96, y=-4.00, z=50.32] as it would cause deadlock
-[22:29:34] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/2010, l='ServerLevel[Testeo12]', x=-869.30, y=-8.90, z=59.12] as it would cause deadlock
-[22:30:27] [Server thread/WARN]: ApioOwO moved too quickly! 9.067621185983626,1.929874164878548,-3.9821116945542485
-[22:35:41] [Server thread/INFO]: ApioOwO has made the advancement [Monster Hunter]
-[22:36:01] [Server thread/WARN]: ApioOwO moved wrongly!
-[22:36:01] [Server thread/INFO]: ApioOwO was slain by Horde Zombie
-[22:36:08] [Server thread/INFO]: ApioOwO claimed a grave belonging to ApioOwO at -735, 68, -104, minecraft:overworld
-[22:37:02] [Server thread/INFO]: ApioOwO has made the advancement [Acquire Hardware]
-[22:40:07] [Server thread/INFO]: ApioOwO was slain by Zombie
-[22:40:26] [Server thread/INFO]: ApioOwO claimed a grave belonging to ApioOwO at -747, 67, -116, minecraft:overworld
-[22:40:32] [Server thread/INFO]: ApioOwO was slain by Zombie
-[22:42:49] [Server thread/INFO]: ApioOwO was slain by Zombie
-[22:42:50] [Server thread/INFO]: No grave backup generated (empty grave)
-[22:43:05] [Server thread/INFO]: ApioOwO claimed a grave belonging to ApioOwO at -739, 68, -114, minecraft:overworld
-[22:43:08] [Server thread/INFO]: ApioOwO was slain by Horde Zombie
-[22:43:20] [Server thread/INFO]: ApioOwO claimed a grave belonging to ApioOwO at -738, 66, -121, minecraft:overworld
-[22:43:26] [Server thread/INFO]: ApioOwO has made the advancement [Ol' Betsy]
-[22:43:26] [Server thread/INFO]: ApioOwO has made the advancement [Take Aim]
-[22:47:41] [Server thread/INFO]: Priority overwritten for player ApioOwO. Claiming: GRAVE / Robbing: INVENTORY
-[22:48:10] [Server thread/INFO]: Priority overwritten for player ApioOwO. Claiming: GRAVE / Robbing: INVENTORY
-[22:57:04] [Server thread/INFO]: ApioOwO has made the advancement [Stone Age]
+[03:02:29] [main/INFO]: Loaded 5195 recipes
+[03:02:29] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_illager_corsair_or_illager_galley: No key id in MapLike[{"item":"minecraft:tropical_fish"}]
+[03:02:29] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_infested_temple_map: No key id in MapLike[{"item":"minecraft:filled_map"}]
+[03:02:29] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_greenwood_pub: No key id in MapLike[{"item":"minecraft:barrel"}]
+[03:02:29] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_thornborn_towers: No key id in MapLike[{"item":"minecraft:rose_bush"}]
+[03:02:29] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_keep_kayra: No key id in MapLike[{"item":"minecraft:lily_pad"}]
+[03:02:29] [main/ERROR]: Parsing error loading custom advancement trailandtales_delight:tat_delight: No key id in MapLike[{"item":"trailandtales_delight:pottery_cooking_pot"}]
+[03:02:29] [main/ERROR]: Couldn't load advancements: [minecraft:give_quest_trader_trade, dungeons_arise:find_plague_asylum, minecraft:wander_add_map, dungeons_arise:find_fishing_hut]
+[03:02:29] [main/INFO]: Loaded 4717 advancements
+[03:02:29] [main/INFO]: Configuration has been loaded
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_sandy_shrub - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:add_loot_piglin_bartering - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_cake - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:pastry_slicing
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_strider_egg - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:add_loot_bastion_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_abandoned_mineshaft - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:slicing_magma_cake - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: mynethersdelight:especial_drop
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_ham_from_hoglin - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_grass - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_shulker_shell - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_pumpkin - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:replace_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:cut_elder_guardian - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:cut_tentacles_squid - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_end_city_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_chocolate_pie - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:pastry_slicing
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:add_loot_bastion_hoglin_stable - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_sweet_berry_cheesecake - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:pastry_slicing
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_onion_from_ghast - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_shipwreck_supply - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_simple_dungeon - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_mature_rice - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_extra_ghasta1 - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_rabbit_hide - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_extra_ghasta0 - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_extra_strider_egg2 - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_extra_strider_egg1 - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_strider_slice - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_extra_strider_egg0 - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_smoked_ham_from_pig - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_ruined_portal - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_bastion_hoglin_stable - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_savanna_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_smoked_ham_from_hoglin - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_apple_pie - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:pastry_slicing
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:remplace_hoglin_pork_loin - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: mynethersdelight:remplace_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_string - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_ham_from_pig - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_tall_grass - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:slicing_candle_cake - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:guardian_drop - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:cut_tentacles_glow_squid - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:straw_from_mature_wheat - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_leather - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:scavenging_feather - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_snowy_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:remplace_hoglin_cooked_pork_loin - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: mynethersdelight:remplace_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_desert_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_bastion_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_extra_strider_slice0 - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_pillager_outpost - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_plains_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_taiga_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:add_loot_village_butcher - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_extra_strider_slice1 - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_ghasta - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_hoglin_hide - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[03:02:29] [main/INFO]: Reloading grave shape (server)
+[03:02:29] [main/INFO]: Grave model and shape reload successful (server)
+[03:02:29] [main/INFO]: Reloading YIGD graveyard data (server)
+[03:02:29] [main/INFO]: Graveyard data successfully reloaded (server)
+[03:02:29] [main/INFO]: Reloading YIGD grave area overrides (server)
+[03:02:29] [main/INFO]: Grave area overrides successfully reloaded (server)
+[03:02:29] [main/INFO]: [Quad] loaded default fuel values
+[03:02:29] [main/INFO]: [Quad] loaded quad fuel tags
+[03:02:29] [main/WARN]: Initial datapack load took 4.480 s
+[03:02:30] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[03:02:30] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[03:02:30] [main/INFO]: Applied 1169 biome modifications to 128 of 128 new biomes in 190.7 ms
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:acolyte_wand
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aeternium_claymore
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aeternium_dagger
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aeternium_double_axe
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aeternium_glaive
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aeternium_great_hammer
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aeternium_sickle
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aeternium_spear
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_claymore
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aether_dagger
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aether_double_axe
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aether_glaive
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_great_hammer
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aether_heavy_crossbow
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_holy_staff
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aether_longbow
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_mace
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aether_sickle
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aether_spear
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:aether_wizard_staff
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:anchor
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:axe
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:battlestaff
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:bow_two_handed_heavy
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:bow_two_handed_light
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:claw
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:claymore
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: archers:composite_longbow
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:coral_blade
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:crossbow_two_handed_heavy
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:crossbow_two_handed_light
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: archers:crystal_longbow
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:cutlass
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:dagger
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_claymore
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:diamond_dagger
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:diamond_double_axe
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:diamond_glaive
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_great_hammer
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_holy_staff
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_holy_wand
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_mace
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:diamond_sickle
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: archers:diamond_spear
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:diamond_sword
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:double_axe
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:fist
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:flint_dagger
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: archers:flint_spear
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:glaive
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:golden_claymore
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:golden_dagger
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:golden_double_axe
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:golden_glaive
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:golden_great_hammer
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:golden_mace
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:golden_sickle
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: archers:golden_spear
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:golden_sword
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:halberd
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:hammer
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:heavy_axe
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: archers:heavy_crossbow
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:holy_staff
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:holy_wand
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:iron_claymore
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:iron_dagger
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:iron_double_axe
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:iron_glaive
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:iron_great_hammer
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:iron_mace
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:iron_sickle
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: archers:iron_spear
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:iron_sword
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:katana
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:lance
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:mace
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:mace
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_claymore
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:netherite_dagger
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:netherite_double_axe
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:netherite_glaive
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_great_hammer
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: archers:netherite_heavy_crossbow
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_holy_staff
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_holy_wand
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: archers:netherite_longbow
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_mace
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:netherite_sickle
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: archers:netherite_spear
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:netherite_sword
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:pickaxe
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:rapier
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: archers:royal_longbow
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:ruby_claymore
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:ruby_dagger
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:ruby_double_axe
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:ruby_glaive
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: archers:ruby_heavy_crossbow
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:ruby_holy_staff
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:ruby_sickle
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: archers:ruby_spear
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:scythe
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:sickle
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: farmersdelight:skillet
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:soul_knife
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:spear
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:staff
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_arcane
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_crystal_arcane
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_fire
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_frost
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_netherite_arcane
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_netherite_fire
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_netherite_frost
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_ruby_fire
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_smaragdant_frost
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_wizard
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:stone_claymore
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:stone_double_axe
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:stone_great_hammer
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:stone_mace
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:stone_sword
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:sword
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:trident
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:trident
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:twin_blade
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_claymore_1
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_claymore_2
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_claymore_sw
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_dagger_1
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_dagger_2
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_dagger_sw
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_double_axe_1
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_double_axe_2
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_double_axe_sw
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_glaive_1
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_glaive_2
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_glaive_sw
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_hammer_1
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_hammer_2
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_hammer_sw
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_heavy_crossbow_1
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_heavy_crossbow_2
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_heavy_crossbow_sw
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_longbow_1
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_longbow_2
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_longbow_sw
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_longsword_sw
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_mace_1
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_mace_2
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_mace_sw
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_sickle_1
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_sickle_2
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_sickle_sw
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_spear_1
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_spear_2
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_spear_sw
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_damage_1
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_damage_2
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_damage_3
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_damage_4
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_damage_5
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_damage_6
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_damage_sw
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_heal_1
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_heal_2
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_heal_sw
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:vanilla_mace
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:wand
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_arcane
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_fire
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_frost
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_netherite_arcane
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_netherite_fire
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_netherite_frost
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_novice
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:wooden_great_hammer
+[03:02:30] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:wooden_sword
+[03:02:30] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 10645 bytes (in 2 string chunks with the size of 10000)
+[03:02:30] [Server thread/INFO]: [Quad] cached original fuel map with count of: 1168
+[03:02:30] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): ??? bytes (in 3 string chunks with the size of 10000)
+[03:02:30] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[03:02:30] [Server thread/INFO]: Loading properties
+[03:02:30] [Server thread/INFO]: Default game type: SURVIVAL
+[03:02:30] [Server thread/INFO]: Generating keypair
+[03:02:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:02:30] [Server thread/INFO]: Using epoll channel type
+[03:02:30] [Server thread/INFO]: Preparing level "Testeo12"
+[03:02:31] [Server thread/INFO]: [Surveyor] Loading data for minecraft:overworld
+[03:02:31] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:overworld
+[03:02:31] [Server thread/INFO]: [Surveyor] Loading data for minecraft:the_end
+[03:02:31] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:the_end
+[03:02:31] [Server thread/INFO]: [Surveyor] Loading data for minecraft:the_nether
+[03:02:31] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:the_nether
+[03:02:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:02:31] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
+[03:02:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:02:32] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[03:02:32] [Server thread/INFO]: Time elapsed: 743 ms
+[03:02:32] [Server thread/INFO]: Done (1.665s)! For help, type "help"
+[03:02:32] [Server thread/WARN]: Dedicated server took 43.732 seconds to load
+[03:02:32] [Server thread/INFO]: Loading audio file volume overrides...
+[03:02:32] [Server thread/INFO]: Loading audio file name mappings...
+[03:02:32] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'media-rows.gl.at.ply.gg:4489'
+[03:02:32] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 4489
+[03:02:33] [Server thread/INFO]: Changing maximum value for minecraft:generic.armor from 30.0 to 1000000.0.
+[03:02:33] [Server thread/INFO]: Changing maximum value for minecraft:generic.armor_toughness from 20.0 to 1000000.0.
+[03:02:33] [Server thread/INFO]: Changing maximum value for minecraft:generic.attack_damage from 2048.0 to 1000000.0.
+[03:02:33] [Server thread/INFO]: Changing maximum value for minecraft:generic.attack_knockback from 5.0 to 1000000.0.
+[03:02:33] [Server thread/INFO]: Changing maximum value for minecraft:generic.max_health from 1024.0 to 1000000.0.
+[03:02:51] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[03:02:51] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[03:02:51] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[03:02:51] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[03:02:51] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[03:02:51] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[03:02:51] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[03:02:51] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[03:04:06] [User Authenticator #1/INFO]: UUID of player ApioOwO is 01780b5e-4207-4fa3-8c3d-c24c6e95e2f9
+[03:04:10] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
+[03:04:10] [Server thread/INFO]: ApioOwO[/127.237.250.73:38079] logged in with entity id 19 at (-731.7034756519693, 68.0, -104.50804531440521)
+[03:04:10] [Server thread/INFO]: Sending server config values to client
+[03:04:10] [Server thread/INFO]: Using Fabric Permissions API
+[03:04:10] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[03:04:10] [Server thread/INFO]: ApioOwO joined the game
+[03:04:11] [Server thread/INFO]: [voicechat] Received secret request of ApioOwO (18)
+[03:04:11] [Server thread/INFO]: [voicechat] Sent secret to ApioOwO
+[03:04:12] [Server thread/INFO]: Priority overwritten for player ApioOwO. Claiming: GRAVE / Robbing: INVENTORY
+[03:04:12] [Server thread/INFO]: Receiving client config
+[03:04:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 01780b5e-4207-4fa3-8c3d-c24c6e95e2f9
+[03:04:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 01780b5e-4207-4fa3-8c3d-c24c6e95e2f9
+[03:04:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ApioOwO (01780b5e-4207-4fa3-8c3d-c24c6e95e2f9) successfully connected to voice chat

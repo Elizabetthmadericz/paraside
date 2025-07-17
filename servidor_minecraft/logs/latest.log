@@ -950,3 +950,19 @@ com.google.gson.JsonParseException: Map entry 'c' : Failed to parse either. Firs
 [02:05:54] [Server thread/INFO]: No grave backup generated (empty grave)
 [02:09:14] [Server thread/INFO]: ApioOwO claimed a grave belonging to ApioOwO at -1031, 78, -952, minecraft:overworld
 [02:11:25] [Server thread/INFO]: [ApioOwO: Set own game mode to Creative Mode]
+[02:52:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@b18f611[id=e2c9b06f-c5fc-32ce-bc0b-42ae97bb3298,name=Soberbia,properties={}] lost connection: Disconnected
+[02:53:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@1b375ce8[id=e2c9b06f-c5fc-32ce-bc0b-42ae97bb3298,name=Soberbia,properties={}] lost connection: Disconnected
+[02:54:24] [Server thread/INFO]: [ApioOwO: Set own game mode to Survival Mode]
+[02:56:20] [Server thread/INFO]: Soberbia[/127.96.178.42:59053] logged in with entity id 18056 at (-838.8157306248846, -22.0, -84.30000001192093)
+[02:56:20] [Server thread/INFO]: Sending server config values to client
+[02:56:20] [Server thread/INFO]: Soberbia joined the game
+[02:56:21] [Server thread/INFO]: [voicechat] Received secret request of Soberbia (18)
+[02:56:21] [Server thread/INFO]: [voicechat] Sent secret to Soberbia
+[02:56:21] [Server thread/INFO]: Priority overwritten for player Soberbia. Claiming: GRAVE / Robbing: INVENTORY
+[02:56:21] [Server thread/INFO]: Receiving client config
+[02:56:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e2c9b06f-c5fc-32ce-bc0b-42ae97bb3298
+[02:56:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e2c9b06f-c5fc-32ce-bc0b-42ae97bb3298
+[02:56:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Soberbia (e2c9b06f-c5fc-32ce-bc0b-42ae97bb3298) successfully connected to voice chat
+[02:59:09] [Server thread/INFO]: Soberbia lost connection: Disconnected
+[02:59:09] [Server thread/INFO]: Soberbia left the game
+[02:59:09] [Server thread/INFO]: [voicechat] Disconnecting client Soberbia

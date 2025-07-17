@@ -7357,7 +7357,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:32:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
     },
     "done": false
   },
@@ -7387,9 +7387,15 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:32:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
     },
     "done": false
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-07-17 18:33:56 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
@@ -7409,6 +7415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_blue_dye": "2025-07-17 18:39:07 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/sandy_dirt": {
     "criteria": {
       "has_sand": "2025-07-17 18:06:07 +0000"
@@ -7417,13 +7429,19 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:32:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-17 18:01:50 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/nethers_stove": {
+    "criteria": {
+      "has_campfire": "2025-07-17 18:33:50 +0000"
     },
     "done": true
   },
@@ -7435,7 +7453,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:32:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
     },
     "done": false
   },
@@ -7453,15 +7471,21 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:32:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:32:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2025-07-17 18:39:07 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
@@ -7471,7 +7495,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:32:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
     },
     "done": false
   },
@@ -7501,7 +7525,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:32:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
     },
     "done": false
   },
@@ -7511,9 +7535,15 @@
     },
     "done": true
   },
+  "comforts:recipes/building_blocks/dye_hammock_light_blue": {
+    "criteria": {
+      "has_needed_dye": "2025-07-17 18:39:07 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:32:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
     },
     "done": false
   },
@@ -7525,7 +7555,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:32:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
     },
     "done": false
   },
@@ -7549,7 +7579,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:32:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
     },
     "done": false
   },
@@ -7565,11 +7595,35 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-07-17 18:33:50 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:32:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-17 18:39:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-17 18:39:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-17 18:39:07 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
@@ -7592,6 +7646,12 @@
   "biomeswevegone:recipes/building_blocks/pink_sand": {
     "criteria": {
       "has_sand": "2025-07-17 18:06:07 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_sleeping_bag_light_blue": {
+    "criteria": {
+      "has_needed_dye": "2025-07-17 18:39:07 +0000"
     },
     "done": true
   },

@@ -941,3 +941,6 @@ com.google.gson.JsonParseException: Map entry 'c' : Failed to parse either. Firs
 [01:27:42] [Server thread/INFO]: [ApioOwO: Set own game mode to Survival Mode]
 [01:28:09] [Server thread/INFO]: Villager class_1646['Fisherman'/183, l='ServerLevel[Testeo12]', x=-1024.30, y=71.00, z=-916.51] died, message: 'Fisherman was slain by Zombie'
 [01:32:09] [Server thread/INFO]: [ApioOwO: Set own game mode to Creative Mode]
+[01:46:02] [Server thread/INFO]: [ApioOwO: Set own game mode to Survival Mode]
+[01:46:59] [Server thread/INFO]: ApioOwO was shot by Skeleton
+[01:48:31] [Server thread/INFO]: ApioOwO claimed a grave belonging to ApioOwO at -1128, 77, -847, minecraft:overworld

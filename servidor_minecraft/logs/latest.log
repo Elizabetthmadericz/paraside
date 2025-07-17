@@ -935,3 +935,9 @@ com.google.gson.JsonParseException: Map entry 'c' : Failed to parse either. Firs
 [01:04:39] [Server thread/INFO]: [ApioOwO: Set own game mode to Spectator Mode]
 [01:04:49] [Server thread/INFO]: [ApioOwO: Set own game mode to Creative Mode]
 [01:05:28] [Server thread/INFO]: Villager class_1646['Forager'/101, l='ServerLevel[Testeo12]', x=-1026.28, y=70.56, z=-912.72] died, message: 'Forager was slain by Zombie'
+[01:13:16] [Server thread/INFO]: [ApioOwO: Set own game mode to Survival Mode]
+[01:23:00] [Server thread/INFO]: [ApioOwO: Set own game mode to Creative Mode]
+[01:27:08] [Server thread/INFO]: Villager class_1646['Butcher'/182, l='ServerLevel[Testeo12]', x=-1009.17, y=71.00, z=-841.83] died, message: 'Butcher was slain by Zombie'
+[01:27:42] [Server thread/INFO]: [ApioOwO: Set own game mode to Survival Mode]
+[01:28:09] [Server thread/INFO]: Villager class_1646['Fisherman'/183, l='ServerLevel[Testeo12]', x=-1024.30, y=71.00, z=-916.51] died, message: 'Fisherman was slain by Zombie'
+[01:32:09] [Server thread/INFO]: [ApioOwO: Set own game mode to Creative Mode]

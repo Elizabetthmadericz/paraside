@@ -383,6 +383,7 @@
       "bread": "2025-07-16 19:28:10 +0000",
       "golden_apple": "2025-07-16 21:13:33 +0000",
       "cooked_mutton": "2025-07-16 18:45:19 +0000",
+      "glow_berries": "2025-07-17 01:14:30 +0000",
       "cooked_beef": "2025-07-16 18:08:38 +0000",
       "cooked_salmon": "2025-07-16 18:53:12 +0000",
       "carrot": "2025-07-16 20:39:39 +0000"
@@ -2063,7 +2064,8 @@
       "minecraft:skeleton": "2025-07-16 20:19:50 +0000",
       "minecraft:spider": "2025-07-16 20:17:07 +0000",
       "minecraft:zombie": "2025-07-16 20:03:19 +0000",
-      "minecraft:creeper": "2025-07-16 18:29:19 +0000"
+      "minecraft:creeper": "2025-07-16 18:29:19 +0000",
+      "minecraft:zombie_villager": "2025-07-17 01:27:12 +0000"
     },
     "done": false
   },
@@ -6549,9 +6551,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-07-17 01:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-17 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_sleeping_bag_yellow": {
+    "criteria": {
+      "has_needed_dye": "2025-07-17 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-17 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_jukebox_upgrade": "2025-07-17 01:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-17 01:26:31 +0000"
+    },
+    "done": true
+  },
   "paladins:recipes/misc/netherite_scrap_from_smelting_netherite_crusader_armor_chest": {
     "criteria": {
       "has_netherite_crusader_armor_chest": "2025-07-17 01:01:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-17 01:13:02 +0000"
     },
     "done": true
   },
@@ -6561,11 +6605,41 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-07-17 01:26:31 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-07-17 01:03:02 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-07-17 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/toast_with_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-07-17 01:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-07-17 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-17 01:26:46 +0000"
+    },
+    "done": true
   },
   "lootr:1barrel": {
     "criteria": {
@@ -6573,9 +6647,39 @@
     },
     "done": true
   },
+  "comforts:recipes/building_blocks/dye_sleeping_bag_white": {
+    "criteria": {
+      "has_needed_dye": "2025-07-17 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-17 01:26:46 +0000"
+    },
+    "done": true
+  },
   "paladins:recipes/misc/netherite_scrap_from_smelting_netherite_crusader_armor_legs": {
     "criteria": {
       "has_netherite_crusader_armor_legs": "2025-07-17 01:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-17 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-07-17 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-07-17 01:26:31 +0000"
     },
     "done": true
   },
@@ -6591,9 +6695,27 @@
     },
     "done": true
   },
+  "comforts:recipes/building_blocks/dye_hammock_white": {
+    "criteria": {
+      "has_needed_dye": "2025-07-17 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-07-17 01:27:14 +0000"
+    },
+    "done": true
+  },
   "paladins:recipes/misc/netherite_scrap_from_blasting_netherite_crusader_armor_legs": {
     "criteria": {
       "has_netherite_crusader_armor_legs": "2025-07-17 01:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-07-17 01:26:31 +0000"
     },
     "done": true
   },
@@ -6603,15 +6725,63 @@
     },
     "done": true
   },
+  "cratedelight:recipes/building_blocks/glowberry_crate": {
+    "criteria": {
+      "has_glow_berries": "2025-07-17 01:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-07-17 01:26:31 +0000"
+    },
+    "done": true
+  },
   "paladins:recipes/misc/netherite_scrap_from_smelting_netherite_crusader_armor_feet": {
     "criteria": {
       "has_netherite_crusader_armor_feet": "2025-07-17 01:01:32 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-17 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-17 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-07-17 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_hammock_yellow": {
+    "criteria": {
+      "has_needed_dye": "2025-07-17 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-07-17 01:26:31 +0000"
+    },
+    "done": true
+  },
   "paladins:recipes/misc/netherite_scrap_from_smelting_netherite_crusader_armor_head": {
     "criteria": {
       "has_netherite_crusader_armor_head": "2025-07-17 01:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-17 01:26:46 +0000"
     },
     "done": true
   },

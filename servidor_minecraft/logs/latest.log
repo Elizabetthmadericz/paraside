@@ -966,3 +966,55 @@ com.google.gson.JsonParseException: Map entry 'c' : Failed to parse either. Firs
 [02:59:09] [Server thread/INFO]: Soberbia lost connection: Disconnected
 [02:59:09] [Server thread/INFO]: Soberbia left the game
 [02:59:09] [Server thread/INFO]: [voicechat] Disconnecting client Soberbia
+[03:01:16] [Server thread/INFO]: Soberbia[/127.96.178.42:34861] logged in with entity id 19221 at (-839.6979237085575, -22.0, -84.69999998807907)
+[03:01:16] [Server thread/INFO]: Sending server config values to client
+[03:01:16] [Server thread/INFO]: Soberbia joined the game
+[03:01:21] [Server thread/INFO]: [voicechat] Received secret request of Soberbia (18)
+[03:01:21] [Server thread/INFO]: [voicechat] Sent secret to Soberbia
+[03:01:21] [Server thread/INFO]: Priority overwritten for player Soberbia. Claiming: GRAVE / Robbing: INVENTORY
+[03:01:21] [Server thread/INFO]: Receiving client config
+[03:01:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e2c9b06f-c5fc-32ce-bc0b-42ae97bb3298
+[03:01:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e2c9b06f-c5fc-32ce-bc0b-42ae97bb3298
+[03:01:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Soberbia (e2c9b06f-c5fc-32ce-bc0b-42ae97bb3298) successfully connected to voice chat
+[03:02:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 6036705a-7063-3d1a-ac61-83ea1d19a277 timed out
+[03:02:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player ApioOwO
+[03:02:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to ApioOwO
+[03:02:35] [Server thread/INFO]: ApioOwO lost connection: Timed out
+[03:02:35] [Server thread/INFO]: ApioOwO left the game
+[03:02:35] [Server thread/INFO]: [voicechat] Disconnecting client ApioOwO
+[03:02:35] [Server thread/WARN]: handleDisconnection() called twice
+[03:04:34] [Server thread/INFO]: ApioOwO[/127.237.250.73:59509] logged in with entity id 20133 at (-1114.2307692324669, 73.0, -901.0476659483218)
+[03:04:34] [Server thread/INFO]: Sending server config values to client
+[03:04:34] [Server thread/INFO]: ApioOwO joined the game
+[03:04:35] [Server thread/INFO]: [voicechat] Received secret request of ApioOwO (18)
+[03:04:35] [Server thread/INFO]: [voicechat] Sent secret to ApioOwO
+[03:04:35] [Server thread/INFO]: Priority overwritten for player ApioOwO. Claiming: GRAVE / Robbing: INVENTORY
+[03:04:35] [Server thread/INFO]: Receiving client config
+[03:04:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 6036705a-7063-3d1a-ac61-83ea1d19a277
+[03:04:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6036705a-7063-3d1a-ac61-83ea1d19a277
+[03:04:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ApioOwO (6036705a-7063-3d1a-ac61-83ea1d19a277) successfully connected to voice chat
+[03:05:21] [Server thread/INFO]: [ApioOwO: Teleported Soberbia to ApioOwO]
+[03:09:55] [Server thread/INFO]: Soberbia has made the advancement ['X' Marks the Spot]
+[03:11:00] [Server thread/INFO]: Soberbia lost connection: Disconnected
+[03:11:00] [Server thread/INFO]: Soberbia left the game
+[03:11:00] [Server thread/INFO]: [voicechat] Disconnecting client Soberbia
+[03:11:04] [Worker-Main-4/WARN]: Skipping Entity with id dummmmmmy:target_dummy
+[03:11:31] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/21736, l='ServerLevel[Testeo12]', x=-1296.70, y=-7.00, z=-1304.30] as it would cause deadlock
+[03:12:59] [Server thread/INFO]: ApioOwO has made the advancement [Diamonds!]
+[03:15:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 6036705a-7063-3d1a-ac61-83ea1d19a277 timed out
+[03:15:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player ApioOwO
+[03:15:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to ApioOwO
+[03:15:20] [Server thread/INFO]: ApioOwO lost connection: Timed out
+[03:15:20] [Server thread/INFO]: ApioOwO left the game
+[03:15:20] [Server thread/INFO]: [voicechat] Disconnecting client ApioOwO
+[03:16:29] [Server thread/INFO]: ApioOwO[/127.237.250.73:50401] logged in with entity id 22452 at (-1138.2191743085616, 6.0, -968.9642421287617)
+[03:16:29] [Server thread/INFO]: Sending server config values to client
+[03:16:29] [Server thread/INFO]: ApioOwO joined the game
+[03:16:30] [Server thread/INFO]: [voicechat] Received secret request of ApioOwO (18)
+[03:16:30] [Server thread/INFO]: [voicechat] Sent secret to ApioOwO
+[03:16:30] [Server thread/INFO]: Priority overwritten for player ApioOwO. Claiming: GRAVE / Robbing: INVENTORY
+[03:16:30] [Server thread/INFO]: Receiving client config
+[03:16:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 6036705a-7063-3d1a-ac61-83ea1d19a277
+[03:16:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6036705a-7063-3d1a-ac61-83ea1d19a277
+[03:16:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ApioOwO (6036705a-7063-3d1a-ac61-83ea1d19a277) successfully connected to voice chat
+[03:18:03] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/23064, l='ServerLevel[Testeo12]', x=-1296.70, y=-7.00, z=-1304.30] as it would cause deadlock

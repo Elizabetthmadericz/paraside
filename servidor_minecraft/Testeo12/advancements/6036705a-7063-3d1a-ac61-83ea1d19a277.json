@@ -6546,81 +6546,15 @@
     },
     "done": true
   },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-07-17 00:40:52 +0000"
+    },
+    "done": true
+  },
   "rpg_series:spell_cast_rogue_book": {
     "criteria": {
       "cast": "2025-07-17 00:56:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2025-07-17 01:46:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_leggings": "2025-07-17 01:27:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_candle": {
-    "criteria": {
-      "has_yellow_dye": "2025-07-17 01:26:46 +0000"
-    },
-    "done": true
-  },
-  "comforts:recipes/building_blocks/dye_sleeping_bag_yellow": {
-    "criteria": {
-      "has_needed_dye": "2025-07-17 01:26:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-17 02:02:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-07-17 01:26:46 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
-    "criteria": {
-      "has_jukebox_upgrade": "2025-07-17 01:34:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-07-17 01:26:31 +0000"
-    },
-    "done": true
-  },
-  "paladins:recipes/misc/netherite_scrap_from_smelting_netherite_crusader_armor_chest": {
-    "criteria": {
-      "has_netherite_crusader_armor_chest": "2025-07-17 01:01:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/tuff_brick_wall": {
-    "criteria": {
-      "has_tuff_bricks": "2025-07-17 02:02:50 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-17 01:13:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-17 02:02:50 +0000"
     },
     "done": true
   },
@@ -6630,15 +6564,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+  "paladins:recipes/misc/netherite_scrap_from_smelting_netherite_crusader_armor_head": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-07-17 02:02:50 +0000"
+      "has_netherite_crusader_armor_head": "2025-07-17 01:01:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/lime_dye": {
+  "paladins:recipes/misc/netherite_scrap_from_smelting_netherite_crusader_armor_chest": {
     "criteria": {
-      "has_white_dye": "2025-07-17 01:26:31 +0000"
+      "has_netherite_crusader_armor_chest": "2025-07-17 01:01:28 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/netherite_scrap_from_blasting_netherite_crusader_armor_chest": {
+    "criteria": {
+      "has_netherite_crusader_armor_chest": "2025-07-17 01:01:28 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/netherite_scrap_from_smelting_netherite_crusader_armor_legs": {
+    "criteria": {
+      "has_netherite_crusader_armor_legs": "2025-07-17 01:01:30 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/netherite_scrap_from_blasting_netherite_crusader_armor_legs": {
+    "criteria": {
+      "has_netherite_crusader_armor_legs": "2025-07-17 01:01:30 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/netherite_scrap_from_blasting_netherite_crusader_armor_feet": {
+    "criteria": {
+      "has_netherite_crusader_armor_feet": "2025-07-17 01:01:32 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/netherite_scrap_from_smelting_netherite_crusader_armor_feet": {
+    "criteria": {
+      "has_netherite_crusader_armor_feet": "2025-07-17 01:01:32 +0000"
     },
     "done": true
   },
@@ -6649,9 +6613,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+  "lootr:1barrel": {
     "criteria": {
-      "has_white_dye": "2025-07-17 01:26:31 +0000"
+      "opened_barrel": "2025-07-17 01:03:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-17 01:13:02 +0000"
     },
     "done": true
   },
@@ -6661,33 +6631,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+  "cratedelight:recipes/building_blocks/glowberry_crate": {
+    "criteria": {
+      "has_glow_berries": "2025-07-17 01:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-17 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2025-07-17 01:26:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
-      "has_yellow_dye": "2025-07-17 01:26:46 +0000"
+      "has_white_dye": "2025-07-17 01:26:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
-      "has_tuff_bricks": "2025-07-17 02:02:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
-    "criteria": {
-      "has_tuff_bricks": "2025-07-17 02:02:50 +0000"
-    },
-    "done": true
-  },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2025-07-17 01:03:02 +0000"
+      "has_white_dye": "2025-07-17 01:26:31 +0000"
     },
     "done": true
   },
@@ -6697,45 +6667,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
-    "criteria": {
-      "has_tuff_bricks": "2025-07-17 02:02:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-07-17 01:26:46 +0000"
-    },
-    "done": true
-  },
-  "paladins:recipes/misc/netherite_scrap_from_smelting_netherite_crusader_armor_legs": {
-    "criteria": {
-      "has_netherite_crusader_armor_legs": "2025-07-17 01:01:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_yellow_dye": "2025-07-17 01:26:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-17 02:02:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_white_dye": "2025-07-17 01:26:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-07-17 01:46:10 +0000"
     },
     "done": true
   },
@@ -6745,63 +6679,9 @@
     },
     "done": true
   },
-  "cratedelight:recipes/building_blocks/gunpowder_bag": {
-    "criteria": {
-      "has_gunpowder": "2025-07-17 01:46:10 +0000"
-    },
-    "done": true
-  },
-  "paladins:recipes/misc/netherite_scrap_from_blasting_netherite_crusader_armor_chest": {
-    "criteria": {
-      "has_netherite_crusader_armor_chest": "2025-07-17 01:01:28 +0000"
-    },
-    "done": true
-  },
-  "paladins:recipes/misc/netherite_scrap_from_blasting_netherite_crusader_armor_feet": {
-    "criteria": {
-      "has_netherite_crusader_armor_feet": "2025-07-17 01:01:32 +0000"
-    },
-    "done": true
-  },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-07-17 01:59:01 +0000"
-    },
-    "done": true
-  },
   "comforts:recipes/building_blocks/dye_hammock_white": {
     "criteria": {
       "has_needed_dye": "2025-07-17 01:26:31 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/deepslate_shard": {
-    "criteria": {
-      "has_deepslate": "2025-07-17 02:12:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_leggings": "2025-07-17 01:27:14 +0000"
-    },
-    "done": true
-  },
-  "paladins:recipes/misc/netherite_scrap_from_blasting_netherite_crusader_armor_legs": {
-    "criteria": {
-      "has_netherite_crusader_armor_legs": "2025-07-17 01:01:30 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/food/chicken_sandwich_with_egg_and_tomato": {
-    "criteria": {
-      "has_cooked_chicken": "2025-07-17 01:46:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
-    "criteria": {
-      "has_tuff_bricks": "2025-07-17 02:02:50 +0000"
     },
     "done": true
   },
@@ -6811,63 +6691,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_bwg_dye_tag": {
-    "criteria": {
-      "has_dye_tag": "2025-07-17 02:24:05 +0000"
-    },
-    "done": true
-  },
-  "musketmod:recipes/cartridge": {
-    "criteria": {
-      "has_gunpowder": "2025-07-17 01:46:10 +0000"
-    },
-    "done": true
-  },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2025-07-17 00:40:52 +0000"
-    },
-    "done": true
-  },
-  "cratedelight:recipes/building_blocks/glowberry_crate": {
-    "criteria": {
-      "has_glow_berries": "2025-07-17 01:13:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2025-07-17 01:26:31 +0000"
     },
     "done": true
   },
-  "paladins:recipes/misc/netherite_scrap_from_smelting_netherite_crusader_armor_feet": {
-    "criteria": {
-      "has_netherite_crusader_armor_feet": "2025-07-17 01:01:32 +0000"
-    },
-    "done": true
-  },
-  "rottencreatures:recipes/redstone/tnt_barrel": {
-    "criteria": {
-      "has_gunpowder": "2025-07-17 01:46:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
-    "criteria": {
-      "has_tuff_bricks": "2025-07-17 02:02:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_white_carpet": {
     "criteria": {
       "has_needed_dye": "2025-07-17 01:26:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-17 02:02:50 +0000"
     },
     "done": true
   },
@@ -6883,27 +6715,51 @@
     },
     "done": true
   },
-  "comforts:recipes/building_blocks/dye_hammock_yellow": {
-    "criteria": {
-      "has_needed_dye": "2025-07-17 01:26:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/chicken_sandwich": {
-    "criteria": {
-      "has_cooked_chicken": "2025-07-17 01:46:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2025-07-17 01:26:31 +0000"
     },
     "done": true
   },
-  "paladins:recipes/misc/netherite_scrap_from_smelting_netherite_crusader_armor_head": {
+  "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
-      "has_netherite_crusader_armor_head": "2025-07-17 01:01:26 +0000"
+      "has_yellow_dye": "2025-07-17 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_sleeping_bag_yellow": {
+    "criteria": {
+      "has_needed_dye": "2025-07-17 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-17 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-17 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-17 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-17 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_hammock_yellow": {
+    "criteria": {
+      "has_needed_dye": "2025-07-17 01:26:46 +0000"
     },
     "done": true
   },
@@ -6913,9 +6769,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-07-17 02:02:50 +0000"
+      "has_golden_leggings": "2025-07-17 01:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-07-17 01:27:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_jukebox_upgrade": "2025-07-17 01:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-17 01:46:10 +0000"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/gunpowder_bag": {
+    "criteria": {
+      "has_gunpowder": "2025-07-17 01:46:10 +0000"
+    },
+    "done": true
+  },
+  "musketmod:recipes/cartridge": {
+    "criteria": {
+      "has_gunpowder": "2025-07-17 01:46:10 +0000"
+    },
+    "done": true
+  },
+  "rottencreatures:recipes/redstone/tnt_barrel": {
+    "criteria": {
+      "has_gunpowder": "2025-07-17 01:46:10 +0000"
     },
     "done": true
   },
@@ -6925,9 +6817,519 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-07-17 01:46:31 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/chicken_sandwich_with_egg_and_tomato": {
+    "criteria": {
+      "has_cooked_chicken": "2025-07-17 01:46:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-07-17 01:46:31 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-07-17 01:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-17 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall": {
+    "criteria": {
+      "has_tuff_bricks": "2025-07-17 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-17 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-17 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-07-17 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2025-07-17 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-07-17 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-17 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-07-17 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-07-17 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-17 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-17 02:02:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_brick_slab": {
     "criteria": {
       "has_tuff_bricks": "2025-07-17 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/deepslate_shard": {
+    "criteria": {
+      "has_deepslate": "2025-07-17 02:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-17 02:24:05 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/spruce_diamond_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/birch_diamond_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmjnv:recipes/misc/warped_jukebox": {
+    "criteria": {
+      "has_diamond": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/cherry_diamond_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/jungle_diamond_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/warped_diamond_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/cherry_diamond_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/spruce_diamond_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_diamond_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/birch_diamond_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/crimson_diamond_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/warped_diamond_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/crimson_diamond_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmjnv:recipes/misc/crimson_jukebox": {
+    "criteria": {
+      "has_diamond": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_diamond_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/dark_oak_diamond_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/jungle_diamond_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_diamond_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_diamond_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_diamond_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmjnv:recipes/misc/mangrove_jukebox": {
+    "criteria": {
+      "has_diamond": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/spruce_diamond_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/acacia_diamond_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/birch_diamond_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/acacia_diamond_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_diamond_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_diamond_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/spruce_diamond_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_diamond_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/birch_diamond_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_diamond_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/jungle_diamond_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/acacia_diamond_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/cherry_diamond_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/warped_diamond_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmjnv:recipes/misc/bamboo_jukebox": {
+    "criteria": {
+      "has_diamond": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_diamond_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/acacia_diamond_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/jungle_diamond_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_diamond_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/warped_diamond_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/crimson_diamond_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/crimson_diamond_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/birch_diamond_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/cherry_diamond_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/cherry_diamond_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/mangrove_diamond_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/bamboo_diamond_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/jungle_diamond_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_diamond_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/warped_diamond_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/crimson_diamond_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/acacia_diamond_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/spruce_diamond_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-17 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-07-17 03:12:59 +0000"
     },
     "done": true
   },

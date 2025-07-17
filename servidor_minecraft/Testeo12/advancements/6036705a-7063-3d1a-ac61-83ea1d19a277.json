@@ -7357,7 +7357,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:57:19 +0000"
     },
     "done": false
   },
@@ -7387,7 +7387,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:57:19 +0000"
     },
     "done": false
   },
@@ -7421,6 +7421,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-07-17 18:43:43 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/sandy_dirt": {
     "criteria": {
       "has_sand": "2025-07-17 18:06:07 +0000"
@@ -7429,7 +7435,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:57:19 +0000"
     },
     "done": false
   },
@@ -7453,7 +7459,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:57:19 +0000"
     },
     "done": false
   },
@@ -7471,13 +7477,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:57:19 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:57:19 +0000"
     },
     "done": false
   },
@@ -7495,7 +7501,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:57:19 +0000"
     },
     "done": false
   },
@@ -7525,7 +7531,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:57:19 +0000"
     },
     "done": false
   },
@@ -7543,7 +7549,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:57:19 +0000"
     },
     "done": false
   },
@@ -7555,7 +7561,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:57:19 +0000"
     },
     "done": false
   },
@@ -7579,7 +7585,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:57:19 +0000"
     },
     "done": false
   },
@@ -7603,7 +7609,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 18:42:19 +0000"
+      "log_spam_fixer": "2025-07-17 18:57:19 +0000"
     },
     "done": false
   },

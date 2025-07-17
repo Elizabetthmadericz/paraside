@@ -385,6 +385,7 @@
       "cooked_mutton": "2025-07-16 18:45:19 +0000",
       "glow_berries": "2025-07-17 01:14:30 +0000",
       "cooked_beef": "2025-07-16 18:08:38 +0000",
+      "baked_potato": "2025-07-17 02:02:52 +0000",
       "cooked_salmon": "2025-07-16 18:53:12 +0000",
       "carrot": "2025-07-16 20:39:39 +0000"
     },
@@ -6575,6 +6576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-17 02:02:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2025-07-17 01:26:46 +0000"
@@ -6599,15 +6606,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/tuff_brick_wall": {
+    "criteria": {
+      "has_tuff_bricks": "2025-07-17 02:02:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-07-17 01:13:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-17 02:02:50 +0000"
+    },
+    "done": true
+  },
   "paladins:recipes/misc/netherite_scrap_from_blasting_netherite_crusader_armor_head": {
     "criteria": {
       "has_netherite_crusader_armor_head": "2025-07-17 01:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-17 02:02:50 +0000"
     },
     "done": true
   },
@@ -6619,7 +6644,8 @@
   },
   "lootr:social": {
     "criteria": {
-      "opened_barrel": "2025-07-17 01:03:02 +0000"
+      "opened_barrel": "2025-07-17 01:03:02 +0000",
+      "opened_chest": "2025-07-17 01:59:01 +0000"
     },
     "done": false
   },
@@ -6647,6 +6673,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-07-17 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2025-07-17 02:02:50 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-07-17 01:03:02 +0000"
@@ -6656,6 +6694,12 @@
   "comforts:recipes/building_blocks/dye_sleeping_bag_white": {
     "criteria": {
       "has_needed_dye": "2025-07-17 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-07-17 02:02:50 +0000"
     },
     "done": true
   },
@@ -6674,6 +6718,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_yellow_dye": "2025-07-17 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-17 02:02:50 +0000"
     },
     "done": true
   },
@@ -6713,6 +6763,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-07-17 01:59:01 +0000"
+    },
+    "done": true
+  },
   "comforts:recipes/building_blocks/dye_hammock_white": {
     "criteria": {
       "has_needed_dye": "2025-07-17 01:26:31 +0000"
@@ -6734,6 +6790,12 @@
   "moredelight:recipes/food/chicken_sandwich_with_egg_and_tomato": {
     "criteria": {
       "has_cooked_chicken": "2025-07-17 01:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-07-17 02:02:50 +0000"
     },
     "done": true
   },
@@ -6779,9 +6841,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-07-17 02:02:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_carpet": {
     "criteria": {
       "has_needed_dye": "2025-07-17 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-17 02:02:50 +0000"
     },
     "done": true
   },
@@ -6827,9 +6901,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-17 02:02:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-07-17 01:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+    "criteria": {
+      "has_tuff_bricks": "2025-07-17 02:02:50 +0000"
     },
     "done": true
   },

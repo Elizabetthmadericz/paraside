@@ -945,3 +945,7 @@ com.google.gson.JsonParseException: Map entry 'c' : Failed to parse either. Firs
 [01:46:59] [Server thread/INFO]: ApioOwO was shot by Skeleton
 [01:48:31] [Server thread/INFO]: ApioOwO claimed a grave belonging to ApioOwO at -1128, 77, -847, minecraft:overworld
 [01:59:01] [Server thread/INFO]: ApioOwO has made the advancement ['X' Marks the Spot]
+[02:04:45] [Server thread/INFO]: ApioOwO was blown up by Creeper
+[02:05:53] [Server thread/INFO]: ApioOwO was shot by Skeleton
+[02:05:54] [Server thread/INFO]: No grave backup generated (empty grave)
+[02:09:14] [Server thread/INFO]: ApioOwO claimed a grave belonging to ApioOwO at -1031, 78, -952, minecraft:overworld

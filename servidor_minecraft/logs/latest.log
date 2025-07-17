@@ -951,3 +951,5 @@ com.google.gson.JsonParseException: Map entry 'c' : Failed to parse either. Firs
 [17:23:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 6036705a-7063-3d1a-ac61-83ea1d19a277
 [17:23:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6036705a-7063-3d1a-ac61-83ea1d19a277
 [17:23:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ApioOwO (6036705a-7063-3d1a-ac61-83ea1d19a277) successfully connected to voice chat
+[18:08:47] [Server thread/INFO]: [ApioOwO: Set own game mode to Survival Mode]
+[18:25:01] [Server thread/INFO]: [ApioOwO: Set own game mode to Creative Mode]

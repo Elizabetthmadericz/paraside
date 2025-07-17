@@ -6551,6 +6551,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-07-17 01:46:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_leggings": "2025-07-17 01:27:14 +0000"
@@ -6677,9 +6683,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-17 01:46:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-07-17 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/gunpowder_bag": {
+    "criteria": {
+      "has_gunpowder": "2025-07-17 01:46:10 +0000"
     },
     "done": true
   },
@@ -6713,9 +6731,21 @@
     },
     "done": true
   },
+  "moredelight:recipes/food/chicken_sandwich_with_egg_and_tomato": {
+    "criteria": {
+      "has_cooked_chicken": "2025-07-17 01:46:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-07-17 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "musketmod:recipes/cartridge": {
+    "criteria": {
+      "has_gunpowder": "2025-07-17 01:46:10 +0000"
     },
     "done": true
   },
@@ -6743,6 +6773,12 @@
     },
     "done": true
   },
+  "rottencreatures:recipes/redstone/tnt_barrel": {
+    "criteria": {
+      "has_gunpowder": "2025-07-17 01:46:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_carpet": {
     "criteria": {
       "has_needed_dye": "2025-07-17 01:26:31 +0000"
@@ -6767,6 +6803,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-07-17 01:46:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2025-07-17 01:26:31 +0000"
@@ -6782,6 +6824,12 @@
   "minecraft:recipes/building_blocks/dye_yellow_bed": {
     "criteria": {
       "has_needed_dye": "2025-07-17 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-17 01:46:10 +0000"
     },
     "done": true
   },

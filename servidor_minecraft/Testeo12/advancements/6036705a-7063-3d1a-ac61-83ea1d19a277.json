@@ -2066,6 +2066,7 @@
       "minecraft:spider": "2025-07-16 20:17:07 +0000",
       "minecraft:zombie": "2025-07-16 20:03:19 +0000",
       "minecraft:creeper": "2025-07-16 18:29:19 +0000",
+      "minecraft:drowned": "2025-07-17 03:47:49 +0000",
       "minecraft:zombie_villager": "2025-07-17 01:27:12 +0000"
     },
     "done": false
@@ -7337,6 +7338,12 @@
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2025-07-17 03:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-17 03:43:02 +0000"
     },
     "done": true
   },

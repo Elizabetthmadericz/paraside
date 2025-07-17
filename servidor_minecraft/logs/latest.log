@@ -1018,3 +1018,6 @@ com.google.gson.JsonParseException: Map entry 'c' : Failed to parse either. Firs
 [03:16:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6036705a-7063-3d1a-ac61-83ea1d19a277
 [03:16:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ApioOwO (6036705a-7063-3d1a-ac61-83ea1d19a277) successfully connected to voice chat
 [03:18:03] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/23064, l='ServerLevel[Testeo12]', x=-1296.70, y=-7.00, z=-1304.30] as it would cause deadlock
+[03:21:55] [Server thread/INFO]: ApioOwO has completed the challenge [Socialised Loot]
+[03:21:55] [Server thread/INFO]: ApioOwO has made the advancement [Tunnel Treasures]
+[03:25:57] [Server thread/INFO]: [ApioOwO: Set own game mode to Creative Mode]

@@ -135,3 +135,21 @@
 [03:12:47] [Server thread/INFO]: Villager class_1646['Villager'/19203, l='ServerLevel[Testeo12]', x=-982.70, y=62.45, z=-898.52] died, message: 'Villager was slain by Drowned'
 [03:16:43] [Server thread/INFO]: ApioOwO was shot by Skeleton
 [03:17:02] [Server thread/INFO]: ApioOwO claimed a grave belonging to ApioOwO at -1068, 66, -901, minecraft:overworld
+[03:21:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 6036705a-7063-3d1a-ac61-83ea1d19a277 timed out
+[03:21:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player ApioOwO
+[03:21:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to ApioOwO
+[03:21:16] [Server thread/INFO]: ApioOwO lost connection: Timed out
+[03:21:16] [Server thread/INFO]: ApioOwO left the game
+[03:21:16] [Server thread/INFO]: [voicechat] Disconnecting client ApioOwO
+[03:21:16] [Server thread/WARN]: handleDisconnection() called twice
+[03:24:25] [Server thread/INFO]: ApioOwO[/127.237.250.73:52751] logged in with entity id 28162 at (-1072.300000011921, 64.0, -900.5551108928327)
+[03:24:25] [Server thread/INFO]: Sending server config values to client
+[03:24:25] [Server thread/INFO]: ApioOwO joined the game
+[03:24:26] [Server thread/INFO]: [voicechat] Received secret request of ApioOwO (18)
+[03:24:26] [Server thread/INFO]: [voicechat] Sent secret to ApioOwO
+[03:24:26] [Server thread/INFO]: Priority overwritten for player ApioOwO. Claiming: GRAVE / Robbing: INVENTORY
+[03:24:27] [Server thread/INFO]: Receiving client config
+[03:24:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 6036705a-7063-3d1a-ac61-83ea1d19a277
+[03:24:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6036705a-7063-3d1a-ac61-83ea1d19a277
+[03:24:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ApioOwO (6036705a-7063-3d1a-ac61-83ea1d19a277) successfully connected to voice chat
+[03:25:01] [Server thread/INFO]: [ApioOwO: Set own game mode to Creative Mode]

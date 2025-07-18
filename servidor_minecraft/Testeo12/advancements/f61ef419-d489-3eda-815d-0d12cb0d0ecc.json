@@ -7752,6 +7752,12 @@
     },
     "done": true
   },
+  "moredelight:main/get_mashed_potatoes": {
+    "criteria": {
+      "mashed_potatoes": "2025-07-18 19:01:17 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/maple_bookshelf": {
     "criteria": {
       "has_maple_planks": "2025-07-18 17:22:38 +0000"
@@ -7782,6 +7788,12 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/glass_dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-07-18 18:59:06 +0000"
@@ -7797,6 +7809,12 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-18 18:52:47 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_bookshelf_with_door": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
     },
     "done": true
   },
@@ -7848,6 +7866,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/cooking/hotcream": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 19:10:51 +0000"
+    },
+    "done": true
+  },
   "moredelight:recipes/cooking/diced_potatoes_with_egg_and_tomato": {
     "criteria": {
       "has_any_ingredient": "2025-07-18 18:41:16 +0000"
@@ -7885,6 +7909,12 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/dark_oak_single_door_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-07-18 17:32:39 +0000"
@@ -7915,6 +7945,12 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/dark_oak_cabinet_with_glass_doors": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
     "criteria": {
       "cooked_bacon": "2025-07-18 17:49:29 +0000"
@@ -7939,6 +7975,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-18 19:10:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
     "criteria": {
       "cooked_bacon": "2025-07-18 17:49:29 +0000"
@@ -7956,6 +7998,12 @@
       "opened_chest": "2025-07-18 16:33:55 +0000"
     },
     "done": false
+  },
+  "storagedelight:recipes/decorations/dark_oak_drawer_with_books": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
+    },
+    "done": true
   },
   "mynethersdelight:recipes/misc/crafting/nethers_stove": {
     "criteria": {
@@ -8125,6 +8173,18 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/small_dark_oak_drawers": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
+    },
+    "done": true
+  },
   "mstv-mweaponv:recipes/combat/dark_oak_bow": {
     "criteria": {
       "has_stick": "2025-07-18 17:25:20 +0000"
@@ -8239,6 +8299,12 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/maple_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-18 17:22:38 +0000"
@@ -8296,6 +8362,12 @@
   "biomeswevegone:recipes/building_blocks/pink_sand": {
     "criteria": {
       "has_sand": "2025-07-18 18:48:34 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_drawer_with_door": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
     },
     "done": true
   },

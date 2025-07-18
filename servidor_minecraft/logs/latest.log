@@ -132,3 +132,6 @@
 [02:45:57] [Server thread/INFO]: [ApioOwO: Set own game mode to Survival Mode]
 [02:47:44] [Server thread/INFO]: [ApioOwO: Set own game mode to Creative Mode]
 [03:07:17] [Server thread/INFO]: [ApioOwO: Set own game mode to Survival Mode]
+[03:12:47] [Server thread/INFO]: Villager class_1646['Villager'/19203, l='ServerLevel[Testeo12]', x=-982.70, y=62.45, z=-898.52] died, message: 'Villager was slain by Drowned'
+[03:16:43] [Server thread/INFO]: ApioOwO was shot by Skeleton
+[03:17:02] [Server thread/INFO]: ApioOwO claimed a grave belonging to ApioOwO at -1068, 66, -901, minecraft:overworld

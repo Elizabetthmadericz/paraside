@@ -386,6 +386,7 @@
       "apple": "2025-07-18 17:21:53 +0000",
       "bread": "2025-07-16 19:28:10 +0000",
       "golden_apple": "2025-07-16 21:13:33 +0000",
+      "cooked_chicken": "2025-07-18 18:34:20 +0000",
       "cooked_mutton": "2025-07-16 18:45:19 +0000",
       "glow_berries": "2025-07-17 01:14:30 +0000",
       "cooked_beef": "2025-07-16 18:08:38 +0000",
@@ -8194,6 +8195,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-18 18:31:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-07-18 18:08:36 +0000"
@@ -8254,11 +8261,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-18 18:31:23 +0000"
+    },
+    "done": true
+  },
   "lolmlv:recipes/decorations/bamboo_lectern": {
     "criteria": {
       "has_book": "2025-07-18 18:08:36 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-18 18:21:42 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {

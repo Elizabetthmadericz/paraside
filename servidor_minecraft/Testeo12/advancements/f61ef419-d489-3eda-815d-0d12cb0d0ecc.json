@@ -7951,6 +7951,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-07-18 18:29:12 +0000"
+    },
+    "done": true
+  },
   "mstv-mweaponv:recipes/combat/dark_oak_bow": {
     "criteria": {
       "has_stick": "2025-07-18 17:25:20 +0000"
@@ -7978,6 +7984,18 @@
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_chiseled_quartz_block": "2025-07-18 17:32:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-07-18 18:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-18 18:29:12 +0000"
     },
     "done": true
   },
@@ -8032,6 +8050,12 @@
   "stackedblocks:recipes/building_blocks/stacked_coal_blocks": {
     "criteria": {
       "has_coal_block": "2025-07-18 17:34:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-18 18:29:12 +0000"
     },
     "done": true
   },

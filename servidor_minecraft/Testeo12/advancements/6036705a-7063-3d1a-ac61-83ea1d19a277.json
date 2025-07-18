@@ -776,9 +776,10 @@
   },
   "lolmcgt:recipes/decorations/oak_cartography_table": {
     "criteria": {
+      "has_paper": "2025-07-18 19:51:29 +0000",
       "has_planks": "2025-07-16 18:09:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decoration/red_bed": {
     "criteria": {
@@ -1181,9 +1182,10 @@
   },
   "lolmcgt:recipes/decorations/spruce_cartography_table": {
     "criteria": {
+      "has_paper": "2025-07-18 19:51:29 +0000",
       "has_planks": "2025-07-16 18:18:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "quad-lolmbdv:recipes/decorations/spruce_cyan_bed": {
     "criteria": {
@@ -1511,9 +1513,10 @@
   },
   "lolmcgt:recipes/decorations/acacia_cartography_table": {
     "criteria": {
+      "has_paper": "2025-07-18 19:51:29 +0000",
       "has_planks": "2025-07-16 18:19:47 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
@@ -2329,9 +2332,10 @@
   },
   "lolmcgt:recipes/decorations/cherry_cartography_table": {
     "criteria": {
+      "has_paper": "2025-07-18 19:51:29 +0000",
       "has_planks": "2025-07-16 18:32:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "stackedblocks:recipes/building_blocks/stacked_cherry_planks": {
     "criteria": {
@@ -2677,9 +2681,10 @@
   },
   "lolmcgt:recipes/decorations/dark_oak_cartography_table": {
     "criteria": {
+      "has_paper": "2025-07-18 19:51:29 +0000",
       "has_planks": "2025-07-16 18:45:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "lolmft:recipes/decorations/dark_oak_fletching_table": {
     "criteria": {
@@ -4425,9 +4430,10 @@
   },
   "lolmcgt:recipes/decorations/jungle_cartography_table": {
     "criteria": {
+      "has_paper": "2025-07-18 19:51:29 +0000",
       "has_planks": "2025-07-16 20:06:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "stackedblocksfarmersdelight:recipes/building_blocks/stacked_jungle_planks": {
     "criteria": {
@@ -6203,9 +6209,10 @@
   },
   "lolmcgt:recipes/decorations/birch_cartography_table": {
     "criteria": {
+      "has_paper": "2025-07-18 19:51:29 +0000",
       "has_planks": "2025-07-16 21:48:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
@@ -8213,6 +8220,12 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/return_scroll": {
+    "criteria": {
+      "has_paper": "2025-07-18 19:51:29 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/brown_portstone": {
     "criteria": {
       "has_warp_stone": "2025-07-18 19:24:07 +0000"
@@ -8357,11 +8370,29 @@
     },
     "done": false
   },
+  "lolmcgt:recipes/decorations/crimson_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-18 19:51:29 +0000"
+    },
+    "done": false
+  },
+  "waystones:recipes/decorations/blank_scroll": {
+    "criteria": {
+      "has_paper": "2025-07-18 19:51:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-07-18 19:49:30 +0000"
     },
     "done": true
+  },
+  "lolmcgt:recipes/decorations/bamboo_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-18 19:51:29 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
     "criteria": {
@@ -8381,9 +8412,21 @@
     },
     "done": true
   },
+  "lolmcgt:recipes/decorations/warped_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-18 19:51:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-07-18 18:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-18 19:51:29 +0000"
     },
     "done": true
   },
@@ -8585,6 +8628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-18 19:51:29 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/pink_portstone": {
     "criteria": {
       "has_warp_stone": "2025-07-18 19:24:07 +0000"
@@ -8594,6 +8643,12 @@
   "lolmlv:recipes/decorations/oak_lectern": {
     "criteria": {
       "has_book": "2025-07-18 18:08:36 +0000"
+    },
+    "done": false
+  },
+  "lolmcgt:recipes/decorations/mangrove_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-18 19:51:29 +0000"
     },
     "done": false
   },

@@ -7746,39 +7746,45 @@
     },
     "done": true
   },
-  "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_bone_alt": {
+  "lootr:root": {
     "criteria": {
-      "has_bone_meal": "2025-07-18 18:59:06 +0000"
+      "always_true": "2025-07-18 16:33:28 +0000"
     },
     "done": true
   },
-  "moredelight:main/get_mashed_potatoes": {
+  "lootr:social": {
     "criteria": {
-      "mashed_potatoes": "2025-07-18 19:01:17 +0000"
+      "opened_chest": "2025-07-18 16:33:55 +0000"
+    },
+    "done": false
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-07-18 16:33:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-07-18 17:11:10 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-07-18 17:22:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_log": "2025-07-18 17:22:36 +0000"
     },
     "done": true
   },
   "biomeswevegone:recipes/building_blocks/maple_bookshelf": {
     "criteria": {
       "has_maple_planks": "2025-07-18 17:22:38 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:spell_cast_fire_book": {
-    "criteria": {
-      "cast": "2025-07-18 19:48:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-07-18 18:52:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab": {
-    "criteria": {
-      "has_chiseled_quartz_block": "2025-07-18 17:32:09 +0000"
     },
     "done": true
   },
@@ -7794,39 +7800,177 @@
     },
     "done": true
   },
-  "storagedelight:recipes/decorations/glass_dark_oak_cabinet": {
+  "biomeswevegone:recipes/redstone/maple_trapdoor": {
     "criteria": {
-      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
+      "has_planks": "2025-07-18 17:22:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "biomeswevegone:recipes/redstone/maple_pressure_plate": {
     "criteria": {
-      "has_bone_meal": "2025-07-18 18:59:06 +0000"
+      "has_planks": "2025-07-18 17:22:38 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/white_sand": {
+  "biomeswevegone:recipes/decorations/maple_sign": {
     "criteria": {
-      "has_sand": "2025-07-18 18:48:34 +0000"
+      "has_planks": "2025-07-18 17:22:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_stained_glass": {
+  "biomeswevegone:recipes/decorations/maple_fence": {
     "criteria": {
-      "has_glass": "2025-07-18 18:52:47 +0000"
+      "has_planks": "2025-07-18 17:22:38 +0000"
     },
     "done": true
   },
-  "storagedelight:recipes/decorations/dark_oak_bookshelf_with_door": {
+  "biomeswevegone:recipes/redstone/maple_button": {
     "criteria": {
-      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
+      "has_planks": "2025-07-18 17:22:38 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/maple_wood": {
+  "biomeswevegone:recipes/building_blocks/maple_stairs": {
     "criteria": {
-      "has_log": "2025-07-18 17:22:36 +0000"
+      "has_planks": "2025-07-18 17:22:38 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-18 17:22:38 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/maple_crafting_table": {
+    "criteria": {
+      "has_maple_planks": "2025-07-18 17:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-07-18 17:25:20 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_brush": {
+    "criteria": {
+      "has_stick": "2025-07-18 17:25:20 +0000"
+    },
+    "done": true
+  },
+  "mstv-masv:recipes/decorations/dark_oak_armor_stand": {
+    "criteria": {
+      "has_stick": "2025-07-18 17:25:20 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/dark_oak_arrow": {
+    "criteria": {
+      "has_stick": "2025-07-18 17:25:20 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/dark_oak_bow": {
+    "criteria": {
+      "has_stick": "2025-07-18 17:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-18 17:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-07-18 17:27:49 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-07-18 17:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-07-18 17:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-07-18 17:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-07-18 17:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-07-18 17:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-18 17:32:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-18 17:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-18 17:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-18 17:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-18 17:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-18 17:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-18 17:32:40 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/leather_from_blasting_archer_armor_legs": {
+    "criteria": {
+      "has_archer_armor_legs": "2025-07-18 17:33:28 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/leather_from_smelting_archer_armor_legs": {
+    "criteria": {
+      "has_archer_armor_legs": "2025-07-18 17:33:28 +0000"
     },
     "done": true
   },
@@ -7836,9 +7980,220 @@
     },
     "done": true
   },
+  "stackedblocksfarmersdelight:recipes/building_blocks/stacked_coal_blocks": {
+    "criteria": {
+      "has_coal_block": "2025-07-18 17:34:48 +0000"
+    },
+    "done": true
+  },
+  "stackedblocks:recipes/building_blocks/stacked_coal_blocks": {
+    "criteria": {
+      "has_coal_block": "2025-07-18 17:34:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-07-18 17:49:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-07-18 17:49:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-07-18 17:49:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2025-07-18 17:49:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-07-18 18:10:55 +0000",
+      "rice": "2025-07-18 18:08:58 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-07-18 18:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-18 18:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-18 18:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-07-18 18:29:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-07-18 18:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-18 18:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-18 18:29:12 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/diced_potatoes_with_egg_and_tomato": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 18:41:16 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/mashed_potatoes": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 18:41:16 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/potato_salad": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 18:41:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-07-18 18:41:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-07-18 18:43:10 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/nethers_stove": {
+    "criteria": {
+      "has_campfire": "2025-07-18 18:45:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-07-18 18:45:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2025-07-18 18:45:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 18:46:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-07-18 18:46:21 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/batter": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 18:46:21 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/creamy_pasta_with_ham": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 18:46:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/white_sand": {
+    "criteria": {
+      "has_sand": "2025-07-18 18:48:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/sandy_dirt": {
+    "criteria": {
+      "has_sand": "2025-07-18 18:48:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/black_sand": {
+    "criteria": {
+      "has_sand": "2025-07-18 18:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-18 18:48:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/purple_sand": {
+    "criteria": {
+      "has_sand": "2025-07-18 18:48:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/blue_sand": {
+    "criteria": {
+      "has_sand": "2025-07-18 18:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-18 18:48:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/pink_sand": {
+    "criteria": {
+      "has_sand": "2025-07-18 18:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-18 18:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-18 18:52:47 +0000"
     },
     "done": true
   },
@@ -7860,160 +8215,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2025-07-18 17:25:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-07-18 18:12:31 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/cooking/hotcream": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-18 19:10:51 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/cooking/diced_potatoes_with_egg_and_tomato": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-18 18:41:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-07-18 17:32:40 +0000"
-    },
-    "done": true
-  },
-  "mstv-mtoolv:recipes/tools/dark_oak_brush": {
-    "criteria": {
-      "has_stick": "2025-07-18 17:25:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-07-18 17:32:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "potato": "2025-07-18 18:10:55 +0000",
-      "rice": "2025-07-18 18:08:58 +0000"
-    },
-    "done": false
-  },
-  "biomeswevegone:recipes/building_blocks/sandy_dirt": {
-    "criteria": {
-      "has_sand": "2025-07-18 18:48:34 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/dark_oak_single_door_cabinet": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-07-18 17:32:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-07-18 17:32:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-07-18 17:27:49 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/maple_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-18 17:22:38 +0000"
-    },
-    "done": true
-  },
-  "mstv-masv:recipes/decorations/dark_oak_armor_stand": {
-    "criteria": {
-      "has_stick": "2025-07-18 17:25:20 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/dark_oak_cabinet_with_glass_doors": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
-    "criteria": {
-      "cooked_bacon": "2025-07-18 17:49:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-07-18 17:32:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/hot_cocoa": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-18 18:46:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-18 18:52:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-07-18 19:10:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
-    "criteria": {
-      "cooked_bacon": "2025-07-18 17:49:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
-    "criteria": {
-      "has_chiseled_quartz_block": "2025-07-18 17:32:09 +0000"
-    },
-    "done": true
-  },
-  "lootr:social": {
-    "criteria": {
-      "opened_chest": "2025-07-18 16:33:55 +0000"
-    },
-    "done": false
-  },
-  "storagedelight:recipes/decorations/dark_oak_drawer_with_books": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/nethers_stove": {
-    "criteria": {
-      "has_campfire": "2025-07-18 18:45:45 +0000"
     },
     "done": true
   },
@@ -8023,117 +8227,9 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/maple_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-18 17:22:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:cow": "2025-07-18 17:27:49 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-18 18:52:47 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/black_sand": {
-    "criteria": {
-      "has_sand": "2025-07-18 18:48:34 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/maple_sign": {
-    "criteria": {
-      "has_planks": "2025-07-18 17:22:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-07-18 18:12:31 +0000"
-    },
-    "done": true
-  },
-  "stackedblocksfarmersdelight:recipes/building_blocks/stacked_coal_blocks": {
-    "criteria": {
-      "has_coal_block": "2025-07-18 17:34:48 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/cooking/mashed_potatoes": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-18 18:41:16 +0000"
-    },
-    "done": true
-  },
-  "mstv-mweaponv:recipes/combat/dark_oak_arrow": {
-    "criteria": {
-      "has_stick": "2025-07-18 17:25:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "flint_knife": "2025-07-18 17:49:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cake_from_milk_bottle": {
-    "criteria": {
-      "has_milk_bottle": "2025-07-18 18:53:00 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-07-18 17:11:10 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon": {
-    "criteria": {
-      "cooked_bacon": "2025-07-18 17:49:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-07-18 18:59:06 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_cooking_pot": {
-    "criteria": {
-      "cooking_pot": "2025-07-18 18:43:10 +0000"
-    },
-    "done": true
-  },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-07-18 16:33:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/milk_bottle": {
-    "criteria": {
-      "has_milk_bucket": "2025-07-18 18:46:21 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
-    "criteria": {
-      "has_milk_bottle": "2025-07-18 18:53:00 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/cooking/potato_salad": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-18 18:41:16 +0000"
     },
     "done": true
   },
@@ -8155,81 +8251,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_rice": {
-    "criteria": {
-      "plant_rice": "2025-07-18 18:08:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-07-18 18:48:34 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/maple_fence": {
-    "criteria": {
-      "has_planks": "2025-07-18 17:22:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2025-07-18 18:29:12 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/small_dark_oak_drawers": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
-    },
-    "done": true
-  },
-  "mstv-mweaponv:recipes/combat/dark_oak_bow": {
-    "criteria": {
-      "has_stick": "2025-07-18 17:25:20 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/maple_button": {
-    "criteria": {
-      "has_planks": "2025-07-18 17:22:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-18 18:52:47 +0000"
-    },
-    "done": true
-  },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2025-07-18 16:33:28 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/maple_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-18 17:22:38 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/purple_sand": {
-    "criteria": {
-      "has_sand": "2025-07-18 18:48:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
-    "criteria": {
-      "has_chiseled_quartz_block": "2025-07-18 17:32:09 +0000"
     },
     "done": true
   },
@@ -8245,105 +8269,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/skillet": {
-    "criteria": {
-      "has_brick": "2025-07-18 18:29:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-18 18:52:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-07-18 18:29:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-07-18 17:32:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-07-18 17:32:40 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/blue_sand": {
-    "criteria": {
-      "has_sand": "2025-07-18 18:48:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-07-18 18:52:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/stove": {
-    "criteria": {
-      "has_campfire": "2025-07-18 18:45:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_chiseled_quartz_block": "2025-07-18 17:32:09 +0000"
-    },
-    "done": true
-  },
-  "archers:recipes/misc/leather_from_blasting_archer_armor_legs": {
-    "criteria": {
-      "has_archer_armor_legs": "2025-07-18 17:33:28 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/dark_oak_drawer": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/maple_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-18 17:22:38 +0000"
-    },
-    "done": true
-  },
-  "rusticdelight:recipes/cooking/batter": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-18 18:46:21 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/use_cutting_board": {
-    "criteria": {
-      "cutting_board": "2025-07-18 18:41:16 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_small_blimp": {
-    "criteria": {
-      "location0": "2025-07-18 17:31:32 +0000"
-    },
-    "done": true
-  },
-  "archers:recipes/misc/leather_from_smelting_archer_armor_legs": {
-    "criteria": {
-      "has_archer_armor_legs": "2025-07-18 17:33:28 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/maple_crafting_table": {
-    "criteria": {
-      "has_maple_planks": "2025-07-18 17:22:38 +0000"
     },
     "done": true
   },
@@ -8359,15 +8293,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
     "criteria": {
-      "has_sand": "2025-07-18 18:48:34 +0000"
+      "has_milk_bottle": "2025-07-18 18:53:00 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/pink_sand": {
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
     "criteria": {
-      "has_sand": "2025-07-18 18:48:34 +0000"
+      "has_milk_bottle": "2025-07-18 18:53:00 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_bone_alt": {
+    "criteria": {
+      "has_bone_meal": "2025-07-18 18:59:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-18 18:59:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-18 18:59:06 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/glass_dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_bookshelf_with_door": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_single_door_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_cabinet_with_glass_doors": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_drawer_with_books": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/small_dark_oak_drawers": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-18 19:00:25 +0000"
     },
     "done": true
   },
@@ -8377,27 +8377,27 @@
     },
     "done": true
   },
-  "stackedblocks:recipes/building_blocks/stacked_coal_blocks": {
+  "moredelight:main/get_mashed_potatoes": {
     "criteria": {
-      "has_coal_block": "2025-07-18 17:34:48 +0000"
+      "mashed_potatoes": "2025-07-18 19:01:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/flower_pot": {
+  "mynethersdelight:recipes/cooking/cooking/hotcream": {
     "criteria": {
-      "has_brick": "2025-07-18 18:29:12 +0000"
+      "has_any_ingredient": "2025-07-18 19:10:51 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/maple_planks": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_log": "2025-07-18 17:22:36 +0000"
+      "lava_bucket": "2025-07-18 19:10:51 +0000"
     },
     "done": true
   },
-  "moredelight:recipes/cooking/creamy_pasta_with_ham": {
+  "rpg_series:spell_cast_fire_book": {
     "criteria": {
-      "has_any_ingredient": "2025-07-18 18:46:21 +0000"
+      "cast": "2025-07-18 19:48:11 +0000"
     },
     "done": true
   },

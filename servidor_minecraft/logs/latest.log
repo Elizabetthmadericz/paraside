@@ -1120,3 +1120,44 @@ com.google.gson.JsonParseException: Map entry 'c' : Failed to parse either. Firs
 [19:24:18] [Server thread/INFO]: Mat_525 claimed a grave belonging to Mat_525 at -826, 66, -273, minecraft:overworld
 [19:27:30] [Server thread/INFO]: [Not Secure] <ApioOwO> listo ahora tengo el poder para teletransportarme a mi casa desde otro pueblo
 [19:38:31] [Server thread/INFO]: [Not Secure] <Mat_525> Ppodes dormir?
+[19:57:06] [Server thread/INFO]: [Not Secure] <ApioOwO> estoy mimiendo
+[19:57:08] [Server thread/INFO]: Mat_525 burned to death
+[19:57:25] [Server thread/INFO]: [Not Secure] <Mat_525> zzz
+[19:57:26] [Server thread/INFO]: [Not Secure] <Mat_525> zzz
+[19:57:26] [Server thread/INFO]: [Not Secure] <Mat_525> zzzz
+[19:57:27] [Server thread/INFO]: [Not Secure] <Mat_525> zz
+[19:57:27] [Server thread/INFO]: [Not Secure] <Mat_525> zzz
+[19:57:28] [Server thread/INFO]: [Not Secure] <Mat_525> zz
+[19:57:28] [Server thread/INFO]: [Not Secure] <Mat_525> zzzz
+[19:57:29] [Server thread/INFO]: [Not Secure] <Mat_525> zzzz
+[19:57:30] [Server thread/INFO]: [Not Secure] <Mat_525> zzz
+[19:57:30] [Server thread/INFO]: [Not Secure] <Mat_525> zzz
+[19:57:31] [Server thread/INFO]: [Not Secure] <Mat_525> zzz
+[19:57:31] [Server thread/INFO]: [Not Secure] <Mat_525> zzz
+[19:57:32] [Server thread/INFO]: [Not Secure] <Mat_525> zzz
+[19:57:33] [Server thread/INFO]: [Not Secure] <Mat_525> zzz
+[19:57:33] [Server thread/INFO]: [Not Secure] <Mat_525> zzz
+[19:57:34] [Server thread/INFO]: [Not Secure] <Mat_525> zzz
+[19:57:35] [Server thread/INFO]: [Not Secure] <Mat_525> zz
+[19:57:36] [Server thread/INFO]: [Not Secure] <Mat_525> zz
+[19:57:37] [Server thread/INFO]: [Not Secure] <Mat_525> zzzz
+[19:57:38] [Server thread/INFO]: [Not Secure] <Mat_525> zzzz
+[19:57:38] [Server thread/INFO]: [Not Secure] <Mat_525> z
+[19:57:38] [Server thread/INFO]: [Not Secure] <Mat_525> z
+[19:57:38] [Server thread/INFO]: [Not Secure] <Mat_525> z
+[19:57:38] [Server thread/INFO]: [Not Secure] <Mat_525> z
+[19:57:38] [Server thread/INFO]: Mat_525 lost connection: Kicked for spamming
+[19:57:38] [Server thread/INFO]: Mat_525 left the game
+[19:57:38] [Server thread/INFO]: [voicechat] Disconnecting client Mat_525
+[19:57:38] [Server thread/WARN]: handleDisconnection() called twice
+[19:57:49] [Server thread/INFO]: Mat_525[/127.207.153.182:53881] logged in with entity id 69727 at (-835.5, 79.0, -270.5)
+[19:57:49] [Server thread/INFO]: Sending server config values to client
+[19:57:49] [Server thread/INFO]: Mat_525 joined the game
+[19:57:49] [Server thread/INFO]: [voicechat] Received secret request of Mat_525 (18)
+[19:57:49] [Server thread/INFO]: [voicechat] Sent secret to Mat_525
+[19:57:49] [Server thread/INFO]: Priority overwritten for player Mat_525. Claiming: GRAVE / Robbing: INVENTORY
+[19:57:50] [Server thread/INFO]: Receiving client config
+[19:57:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f61ef419-d489-3eda-815d-0d12cb0d0ecc
+[19:57:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f61ef419-d489-3eda-815d-0d12cb0d0ecc
+[19:57:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Mat_525 (f61ef419-d489-3eda-815d-0d12cb0d0ecc) successfully connected to voice chat
+[19:58:18] [Server thread/INFO]: Mat_525 claimed a grave belonging to Mat_525 at -841, 66, -275, minecraft:overworld

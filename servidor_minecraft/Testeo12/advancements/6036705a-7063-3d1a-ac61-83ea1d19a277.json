@@ -8120,6 +8120,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "tomato": "2025-07-18 04:01:46 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-18 03:37:22 +0000"

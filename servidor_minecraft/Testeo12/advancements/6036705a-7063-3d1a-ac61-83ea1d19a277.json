@@ -58,6 +58,7 @@
       "biomeswevegone:pale_bog": "2025-07-16 20:51:06 +0000",
       "biomeswevegone:cypress_swamplands": "2025-07-16 20:51:42 +0000",
       "biomeswevegone:prairie": "2025-07-18 00:05:46 +0000",
+      "biomeswevegone:baobab_savanna": "2025-07-18 18:08:27 +0000",
       "biomeswevegone:basalt_barrera": "2025-07-16 18:36:42 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-16 18:07:02 +0000",
       "biomeswevegone:white_mangrove_marshes": "2025-07-18 00:02:48 +0000",
@@ -8193,17 +8194,155 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-18 18:08:36 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/diced_potatoes_with_egg_and_tomato": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 18:15:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-18 18:08:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 18:15:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-07-18 18:15:21 +0000"
+    },
+    "done": true
+  },
+  "lolmlv:recipes/decorations/dark_oak_lectern": {
+    "criteria": {
+      "has_book": "2025-07-18 18:08:36 +0000"
+    },
+    "done": false
+  },
+  "lolmlv:recipes/decorations/spruce_lectern": {
+    "criteria": {
+      "has_book": "2025-07-18 18:08:36 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-07-18 17:41:34 +0000"
     },
     "done": true
   },
+  "lolmlv:recipes/decorations/crimson_lectern": {
+    "criteria": {
+      "has_book": "2025-07-18 18:08:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-18 18:08:36 +0000"
+    },
+    "done": true
+  },
+  "lolmlv:recipes/decorations/bamboo_lectern": {
+    "criteria": {
+      "has_book": "2025-07-18 18:08:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-18 18:08:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-07-18 18:15:21 +0000"
+    },
+    "done": true
+  },
+  "lolmlv:recipes/decorations/birch_lectern": {
+    "criteria": {
+      "has_book": "2025-07-18 18:08:36 +0000"
+    },
+    "done": false
+  },
+  "lolmlv:recipes/decorations/acacia_lectern": {
+    "criteria": {
+      "has_book": "2025-07-18 18:08:36 +0000"
+    },
+    "done": false
+  },
+  "moredelight:recipes/food/tomato_sandwich": {
+    "criteria": {
+      "has_tomato": "2025-07-18 18:15:21 +0000"
+    },
+    "done": true
+  },
+  "lolmlv:recipes/decorations/mangrove_lectern": {
+    "criteria": {
+      "has_book": "2025-07-18 18:08:36 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-07-18 18:15:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 18:15:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-07-18 18:15:21 +0000"
+    },
+    "done": true
+  },
+  "lolmlv:recipes/decorations/cherry_lectern": {
+    "criteria": {
+      "has_book": "2025-07-18 18:08:36 +0000"
+    },
+    "done": false
+  },
+  "lolmlv:recipes/decorations/oak_lectern": {
+    "criteria": {
+      "has_book": "2025-07-18 18:08:36 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-07-18 17:41:34 +0000"
     },
     "done": true
+  },
+  "lolmlv:recipes/decorations/jungle_lectern": {
+    "criteria": {
+      "has_book": "2025-07-18 18:08:36 +0000"
+    },
+    "done": false
+  },
+  "lolmlv:recipes/decorations/warped_lectern": {
+    "criteria": {
+      "has_book": "2025-07-18 18:08:36 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }

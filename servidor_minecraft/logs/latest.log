@@ -129,3 +129,5 @@
 [01:57:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6036705a-7063-3d1a-ac61-83ea1d19a277
 [01:57:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ApioOwO (6036705a-7063-3d1a-ac61-83ea1d19a277) successfully connected to voice chat
 [02:00:36] [Server thread/INFO]: [ApioOwO: Set own game mode to Creative Mode]
+[02:45:57] [Server thread/INFO]: [ApioOwO: Set own game mode to Survival Mode]
+[02:47:44] [Server thread/INFO]: [ApioOwO: Set own game mode to Creative Mode]

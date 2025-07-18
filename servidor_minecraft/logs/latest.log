@@ -1161,3 +1161,7 @@ com.google.gson.JsonParseException: Map entry 'c' : Failed to parse either. Firs
 [19:57:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f61ef419-d489-3eda-815d-0d12cb0d0ecc
 [19:57:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Mat_525 (f61ef419-d489-3eda-815d-0d12cb0d0ecc) successfully connected to voice chat
 [19:58:18] [Server thread/INFO]: Mat_525 claimed a grave belonging to Mat_525 at -841, 66, -275, minecraft:overworld
+[20:12:54] [Server thread/INFO]: Mat_525 was shot by Skeleton
+[20:17:12] [Server thread/INFO]: Mat_525 was shot by Skeleton
+[20:18:19] [Server thread/INFO]: Mat_525 claimed a grave belonging to Mat_525 at -812, 67, -267, minecraft:overworld
+[20:18:47] [Server thread/INFO]: Mat_525 claimed a grave belonging to Mat_525 at -822, 67, -275, minecraft:overworld

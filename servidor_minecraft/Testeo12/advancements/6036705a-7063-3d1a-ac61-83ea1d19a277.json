@@ -8309,6 +8309,12 @@
     },
     "done": true
   },
+  "moredelight:recipes/food/porkchop_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-07-18 18:57:25 +0000"
+    },
+    "done": true
+  },
   "lolmlv:recipes/decorations/mangrove_lectern": {
     "criteria": {
       "has_book": "2025-07-18 18:08:36 +0000"

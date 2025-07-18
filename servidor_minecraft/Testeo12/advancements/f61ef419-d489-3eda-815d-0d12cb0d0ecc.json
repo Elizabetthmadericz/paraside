@@ -7746,9 +7746,21 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_bone_alt": {
+    "criteria": {
+      "has_bone_meal": "2025-07-18 18:59:06 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/maple_bookshelf": {
     "criteria": {
       "has_maple_planks": "2025-07-18 17:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-18 18:52:47 +0000"
     },
     "done": true
   },
@@ -7770,9 +7782,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-18 18:59:06 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/white_sand": {
     "criteria": {
       "has_sand": "2025-07-18 18:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-18 18:52:47 +0000"
     },
     "done": true
   },
@@ -7791,6 +7815,24 @@
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2025-07-18 18:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-18 18:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-18 18:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-18 18:52:47 +0000"
     },
     "done": true
   },
@@ -7891,6 +7933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-18 18:52:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
     "criteria": {
       "cooked_bacon": "2025-07-18 17:49:29 +0000"
@@ -7915,6 +7963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-18 18:52:47 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/maple_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-18 17:22:38 +0000"
@@ -7926,6 +7980,12 @@
       "minecraft:cow": "2025-07-18 17:27:49 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-18 18:52:47 +0000"
+    },
+    "done": true
   },
   "biomeswevegone:recipes/building_blocks/black_sand": {
     "criteria": {
@@ -7969,6 +8029,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
+    "criteria": {
+      "has_milk_bottle": "2025-07-18 18:53:00 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-07-18 17:11:10 +0000"
@@ -7978,6 +8044,12 @@
   "farmersdelight:recipes/food/cooked_bacon": {
     "criteria": {
       "cooked_bacon": "2025-07-18 17:49:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-18 18:59:06 +0000"
     },
     "done": true
   },
@@ -7999,9 +8071,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+    "criteria": {
+      "has_milk_bottle": "2025-07-18 18:53:00 +0000"
+    },
+    "done": true
+  },
   "moredelight:recipes/cooking/potato_salad": {
     "criteria": {
       "has_any_ingredient": "2025-07-18 18:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-18 18:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-18 18:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-18 18:52:47 +0000"
     },
     "done": true
   },
@@ -8041,6 +8137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-18 18:52:47 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-07-18 16:33:28 +0000"
@@ -8065,9 +8167,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-18 18:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-18 18:52:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/skillet": {
     "criteria": {
       "has_brick": "2025-07-18 18:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-18 18:52:47 +0000"
     },
     "done": true
   },
@@ -8092,6 +8212,12 @@
   "biomeswevegone:recipes/building_blocks/blue_sand": {
     "criteria": {
       "has_sand": "2025-07-18 18:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-07-18 18:52:47 +0000"
     },
     "done": true
   },
@@ -8146,6 +8272,18 @@
   "biomeswevegone:recipes/decorations/maple_crafting_table": {
     "criteria": {
       "has_maple_planks": "2025-07-18 17:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-18 18:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-18 18:52:47 +0000"
     },
     "done": true
   },

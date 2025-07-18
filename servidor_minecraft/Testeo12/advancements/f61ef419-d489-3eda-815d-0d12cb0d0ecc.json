@@ -7770,6 +7770,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/white_sand": {
+    "criteria": {
+      "has_sand": "2025-07-18 18:48:34 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2025-07-18 17:22:36 +0000"
@@ -7782,6 +7788,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-07-18 18:45:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-07-18 17:25:20 +0000"
@@ -7791,6 +7803,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-07-18 18:12:31 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/diced_potatoes_with_egg_and_tomato": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 18:41:16 +0000"
     },
     "done": true
   },
@@ -7818,6 +7836,12 @@
       "rice": "2025-07-18 18:08:58 +0000"
     },
     "done": false
+  },
+  "biomeswevegone:recipes/building_blocks/sandy_dirt": {
+    "criteria": {
+      "has_sand": "2025-07-18 18:48:34 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
@@ -7861,6 +7885,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 18:46:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
     "criteria": {
       "cooked_bacon": "2025-07-18 17:49:29 +0000"
@@ -7879,6 +7909,12 @@
     },
     "done": false
   },
+  "mynethersdelight:recipes/misc/crafting/nethers_stove": {
+    "criteria": {
+      "has_campfire": "2025-07-18 18:45:45 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/maple_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-18 17:22:38 +0000"
@@ -7890,6 +7926,12 @@
       "minecraft:cow": "2025-07-18 17:27:49 +0000"
     },
     "done": false
+  },
+  "biomeswevegone:recipes/building_blocks/black_sand": {
+    "criteria": {
+      "has_sand": "2025-07-18 18:48:34 +0000"
+    },
+    "done": true
   },
   "biomeswevegone:recipes/decorations/maple_sign": {
     "criteria": {
@@ -7906,6 +7948,12 @@
   "stackedblocksfarmersdelight:recipes/building_blocks/stacked_coal_blocks": {
     "criteria": {
       "has_coal_block": "2025-07-18 17:34:48 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/mashed_potatoes": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 18:41:16 +0000"
     },
     "done": true
   },
@@ -7933,15 +7981,39 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-07-18 18:43:10 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-07-18 16:33:55 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-07-18 18:46:21 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/potato_salad": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 18:41:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_rice": {
     "criteria": {
       "plant_rice": "2025-07-18 18:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-18 18:48:34 +0000"
     },
     "done": true
   },
@@ -7981,6 +8053,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/purple_sand": {
+    "criteria": {
+      "has_sand": "2025-07-18 18:48:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_chiseled_quartz_block": "2025-07-18 17:32:09 +0000"
@@ -8011,6 +8089,18 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/blue_sand": {
+    "criteria": {
+      "has_sand": "2025-07-18 18:48:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-07-18 18:45:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_chiseled_quartz_block": "2025-07-18 17:32:09 +0000"
@@ -8026,6 +8116,18 @@
   "biomeswevegone:recipes/redstone/maple_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-18 17:22:38 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/batter": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 18:46:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-07-18 18:41:16 +0000"
     },
     "done": true
   },
@@ -8047,6 +8149,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-18 18:48:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/pink_sand": {
+    "criteria": {
+      "has_sand": "2025-07-18 18:48:34 +0000"
+    },
+    "done": true
+  },
   "stackedblocks:recipes/building_blocks/stacked_coal_blocks": {
     "criteria": {
       "has_coal_block": "2025-07-18 17:34:48 +0000"
@@ -8062,6 +8176,12 @@
   "biomeswevegone:recipes/building_blocks/maple_planks": {
     "criteria": {
       "has_log": "2025-07-18 17:22:36 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/creamy_pasta_with_ham": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 18:46:21 +0000"
     },
     "done": true
   },

@@ -967,3 +967,22 @@ com.google.gson.JsonParseException: Map entry 'c' : Failed to parse either. Firs
 [17:08:22] [Server thread/WARN]: Mat_525 moved too quickly! -0.1158092824130108,-2.0311525452141552,15.705512065664692
 [17:11:25] [Server thread/INFO]: Mat_525 was blown up by Creeper
 [17:11:42] [Server thread/INFO]: Mat_525 claimed a grave belonging to Mat_525 at -822, 67, -325, minecraft:overworld
+[17:20:50] [Server thread/INFO]: ApioOwO[/127.237.250.73:44641] logged in with entity id 9727 at (-1113.4332390719258, 73.0, -906.4333299783865)
+[17:20:50] [Server thread/INFO]: Sending server config values to client
+[17:20:50] [Server thread/INFO]: ApioOwO joined the game
+[17:20:51] [Server thread/INFO]: [voicechat] Received secret request of ApioOwO (18)
+[17:20:51] [Server thread/INFO]: [voicechat] Sent secret to ApioOwO
+[17:20:51] [Server thread/INFO]: Priority overwritten for player ApioOwO. Claiming: GRAVE / Robbing: INVENTORY
+[17:20:52] [Server thread/INFO]: Receiving client config
+[17:20:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 6036705a-7063-3d1a-ac61-83ea1d19a277
+[17:20:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6036705a-7063-3d1a-ac61-83ea1d19a277
+[17:20:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ApioOwO (6036705a-7063-3d1a-ac61-83ea1d19a277) successfully connected to voice chat
+[17:21:11] [Server thread/INFO]: [Not Secure] <Mat_525> duerme
+[17:21:17] [Server thread/INFO]: [ApioOwO: Gamerule sendCommandFeedback is now set to: false]
+[17:21:40] [Server thread/INFO]: [ApioOwO: Set own game mode to Survival Mode]
+[17:22:03] [Server thread/WARN]: Horse (vehicle of ApioOwO) moved wrongly! 0.8125
+[17:22:03] [Server thread/WARN]: Horse (vehicle of ApioOwO) moved wrongly! 0.8125
+[17:22:03] [Server thread/WARN]: Horse (vehicle of ApioOwO) moved wrongly! 0.8125
+[17:22:03] [Server thread/WARN]: Horse (vehicle of ApioOwO) moved wrongly! 0.8125
+[17:27:49] [Server thread/INFO]: Mat_525 has made the advancement [The Parrots and the Bats]
+[17:29:31] [Server thread/INFO]: Mat_525 fell from a high place

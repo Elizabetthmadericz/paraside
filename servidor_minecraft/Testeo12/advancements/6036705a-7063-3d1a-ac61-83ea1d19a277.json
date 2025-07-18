@@ -382,6 +382,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-07-18 17:21:53 +0000",
       "bread": "2025-07-16 19:28:10 +0000",
       "golden_apple": "2025-07-16 21:13:33 +0000",
       "cooked_mutton": "2025-07-16 18:45:19 +0000",
@@ -8096,77 +8097,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "stackedblocksfarmersdelight:recipes/building_blocks/stacked_spruce_logs": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 05:15:25 +0000"
+      "has_spruce_log": "2025-07-18 03:33:07 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "stackedblocks:recipes/building_blocks/stacked_spruce_logs": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 05:15:25 +0000"
+      "has_spruce_log": "2025-07-18 03:33:07 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 05:15:25 +0000"
+      "has_log": "2025-07-18 03:33:07 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-18 05:15:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-18 05:15:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-18 05:15:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-18 05:15:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-18 05:15:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-18 05:15:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-18 05:15:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-18 05:15:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-18 05:15:25 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
@@ -8192,21 +8139,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "tomato": "2025-07-18 04:01:46 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-18 03:37:22 +0000"
-    },
-    "done": true
-  },
-  "stackedblocksfarmersdelight:recipes/building_blocks/stacked_spruce_logs": {
-    "criteria": {
-      "has_spruce_log": "2025-07-18 03:33:07 +0000"
     },
     "done": true
   },
@@ -8219,18 +8154,6 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-18 03:37:22 +0000"
-    },
-    "done": true
-  },
-  "stackedblocks:recipes/building_blocks/stacked_spruce_logs": {
-    "criteria": {
-      "has_spruce_log": "2025-07-18 03:33:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-07-18 03:33:07 +0000"
     },
     "done": true
   },
@@ -8263,6 +8186,12 @@
       "has_deepslate_bricks": "2025-07-18 03:37:22 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "tomato": "2025-07-18 04:01:46 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }

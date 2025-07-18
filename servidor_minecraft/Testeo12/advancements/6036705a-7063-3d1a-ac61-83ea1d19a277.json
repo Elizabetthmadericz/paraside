@@ -8267,6 +8267,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-18 19:49:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-07-18 18:15:21 +0000"
@@ -8351,6 +8357,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-18 19:49:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2025-07-18 19:49:30 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/sandy_waystone": {
     "criteria": {
       "has_warp_stone": "2025-07-18 19:24:07 +0000"
@@ -8366,6 +8384,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-07-18 18:08:36 +0000"
+    },
+    "done": true
+  },
+  "stackedblocksfarmersdelight:recipes/building_blocks/stacked_stripped_oak_logs": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-07-18 19:49:30 +0000"
     },
     "done": true
   },
@@ -8390,6 +8414,12 @@
   "waystones:recipes/decorations/black_portstone": {
     "criteria": {
       "has_warp_stone": "2025-07-18 19:24:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/paper_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2025-07-18 19:49:30 +0000"
     },
     "done": true
   },
@@ -8492,6 +8522,18 @@
   "moredelight:recipes/food/porkchop_sandwich": {
     "criteria": {
       "has_cooked_porkchop": "2025-07-18 18:57:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-07-18 19:49:30 +0000"
+    },
+    "done": true
+  },
+  "stackedblocks:recipes/building_blocks/stacked_stripped_oak_logs": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-07-18 19:49:30 +0000"
     },
     "done": true
   },

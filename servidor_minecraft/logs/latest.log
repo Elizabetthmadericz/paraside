@@ -962,3 +962,8 @@ com.google.gson.JsonParseException: Map entry 'c' : Failed to parse either. Firs
 [16:33:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f61ef419-d489-3eda-815d-0d12cb0d0ecc
 [16:33:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Mat_525 (f61ef419-d489-3eda-815d-0d12cb0d0ecc) successfully connected to voice chat
 [16:33:55] [Server thread/INFO]: Mat_525 has made the advancement ['X' Marks the Spot]
+[16:50:04] [Server thread/INFO]: Mat_525 was slain by Zombie
+[16:51:06] [Server thread/INFO]: Mat_525 claimed a grave belonging to Mat_525 at -1151, 65, -905, minecraft:overworld
+[17:08:22] [Server thread/WARN]: Mat_525 moved too quickly! -0.1158092824130108,-2.0311525452141552,15.705512065664692
+[17:11:25] [Server thread/INFO]: Mat_525 was blown up by Creeper
+[17:11:42] [Server thread/INFO]: Mat_525 claimed a grave belonging to Mat_525 at -822, 67, -325, minecraft:overworld

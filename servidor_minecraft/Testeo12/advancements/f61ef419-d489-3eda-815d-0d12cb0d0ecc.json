@@ -58,6 +58,7 @@
       "biomeswevegone:pale_bog": "2025-07-16 20:02:58 +0000",
       "biomeswevegone:lush_stacks": "2025-07-16 20:33:48 +0000",
       "biomeswevegone:cypress_swamplands": "2025-07-16 20:29:30 +0000",
+      "biomeswevegone:prairie": "2025-07-18 16:48:07 +0000",
       "biomeswevegone:basalt_barrera": "2025-07-16 18:36:47 +0000",
       "biomeswevegone:temperate_grove": "2025-07-16 20:54:36 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-16 18:30:30 +0000",
@@ -7748,6 +7749,12 @@
       "opened_chest": "2025-07-18 16:33:55 +0000"
     },
     "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-07-18 17:11:10 +0000"
+    },
+    "done": true
   },
   "lootr:1chest": {
     "criteria": {

@@ -7594,73 +7594,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 01:19:24 +0000"
+      "log_spam_fixer": "2025-07-18 01:39:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 01:19:24 +0000"
+      "log_spam_fixer": "2025-07-18 01:39:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 01:19:24 +0000"
+      "log_spam_fixer": "2025-07-18 01:39:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 01:19:24 +0000"
+      "log_spam_fixer": "2025-07-18 01:39:24 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 01:19:24 +0000"
+      "log_spam_fixer": "2025-07-18 01:39:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 01:19:24 +0000"
+      "log_spam_fixer": "2025-07-18 01:39:24 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 01:19:24 +0000"
+      "log_spam_fixer": "2025-07-18 01:39:24 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 01:19:24 +0000"
+      "log_spam_fixer": "2025-07-18 01:39:24 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 01:19:24 +0000"
+      "log_spam_fixer": "2025-07-18 01:39:24 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 01:19:24 +0000"
+      "log_spam_fixer": "2025-07-18 01:39:24 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 01:19:24 +0000"
+      "log_spam_fixer": "2025-07-18 01:39:24 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 01:19:24 +0000"
+      "log_spam_fixer": "2025-07-18 01:39:24 +0000"
     },
     "done": false
   },
@@ -7697,6 +7697,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-07-18 00:29:56 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/pumpkin_burrow": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-07-18 01:36:52 +0000"
     },
     "done": true
   },
@@ -7778,6 +7784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-07-18 01:36:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-07-18 01:10:52 +0000"
@@ -7847,6 +7859,18 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-07-18 00:32:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-18 01:36:39 +0000"
+    },
+    "done": true
+  },
+  "stackedblocks:recipes/building_blocks/stacked_iron_blocks": {
+    "criteria": {
+      "has_iron_block": "2025-07-18 01:36:39 +0000"
     },
     "done": true
   },
@@ -7982,6 +8006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-07-18 01:36:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-18 00:29:56 +0000"
@@ -8033,6 +8063,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-18 00:32:31 +0000"
+    },
+    "done": true
+  },
+  "stackedblocksfarmersdelight:recipes/building_blocks/stacked_iron_blocks": {
+    "criteria": {
+      "has_iron_block": "2025-07-18 01:36:39 +0000"
     },
     "done": true
   },
@@ -8093,6 +8129,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-18 00:32:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-18 01:36:39 +0000"
     },
     "done": true
   },
